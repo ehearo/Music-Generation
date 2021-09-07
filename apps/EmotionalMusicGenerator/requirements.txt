@@ -1,0 +1,13 @@
+# musicautobot
+music21
+fastai
+pebble
+midi2audio
+
+# PRNN
+pretty_midi
+
+# torchvision
+pillow==6.2.2
+pafy
+

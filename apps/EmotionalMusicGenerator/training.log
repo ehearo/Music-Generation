@@ -1,0 +1,1471 @@
+2021-08-16 10:21:57,616 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:22:01,598 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:22:01,601 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 10:22:07,134 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:22:07,134 INFO: Train Set:	| Average Loss: 1.3877	| Accuracy: 0.2448	| Learning Rate: 0.01
+2021-08-16 10:22:13,444 INFO: Test Set:	| Average Loss: 1.3788	| Accuracy: 0.4091	|
+
+2021-08-16 10:22:13,499 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 10:22:18,982 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:22:18,983 INFO: Train Set:	| Average Loss: 1.3872	| Accuracy: 0.2448	| Learning Rate: 0.009330127025620924
+2021-08-16 10:22:24,440 INFO: Test Set:	| Average Loss: 1.3825	| Accuracy: 0.4091	|
+
+2021-08-16 10:22:24,440 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 10:22:29,960 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:22:29,960 INFO: Train Set:	| Average Loss: 1.3844	| Accuracy: 0.2657	| Learning Rate: 0.007500000025000001
+2021-08-16 10:22:35,414 INFO: Test Set:	| Average Loss: 1.3875	| Accuracy: 0.2727	|
+
+2021-08-16 10:22:35,414 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 10:22:40,894 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:22:40,895 INFO: Train Set:	| Average Loss: 1.3789	| Accuracy: 0.3217	| Learning Rate: 0.00500000005
+2021-08-16 10:22:46,521 INFO: Test Set:	| Average Loss: 1.3925	| Accuracy: 0.1818	|
+
+2021-08-16 10:22:46,521 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 10:22:52,084 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:22:52,085 INFO: Train Set:	| Average Loss: 1.3781	| Accuracy: 0.2937	| Learning Rate: 0.0025000000750000015
+2021-08-16 10:22:57,568 INFO: Test Set:	| Average Loss: 1.3941	| Accuracy: 0.2727	|
+
+2021-08-16 10:22:57,568 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 10:23:03,333 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:03,334 INFO: Train Set:	| Average Loss: 1.3758	| Accuracy: 0.2937	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:23:08,831 INFO: Test Set:	| Average Loss: 1.3950	| Accuracy: 0.2727	|
+
+2021-08-16 10:23:08,832 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 10:23:14,620 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:14,621 INFO: Train Set:	| Average Loss: 1.3761	| Accuracy: 0.3217	| Learning Rate: 1e-10
+2021-08-16 10:23:20,024 INFO: Test Set:	| Average Loss: 1.3950	| Accuracy: 0.2727	|
+
+2021-08-16 10:23:20,024 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 10:23:25,582 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:25,583 INFO: Train Set:	| Average Loss: 1.3750	| Accuracy: 0.3077	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:23:31,244 INFO: Test Set:	| Average Loss: 1.3942	| Accuracy: 0.1818	|
+
+2021-08-16 10:23:31,245 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 10:23:37,134 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:37,134 INFO: Train Set:	| Average Loss: 1.3738	| Accuracy: 0.3427	| Learning Rate: 0.002500000075
+2021-08-16 10:23:42,597 INFO: Test Set:	| Average Loss: 1.4049	| Accuracy: 0.2727	|
+
+2021-08-16 10:23:42,597 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 10:23:48,446 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:48,447 INFO: Train Set:	| Average Loss: 1.3638	| Accuracy: 0.3427	| Learning Rate: 0.005000000050000003
+2021-08-16 10:23:53,866 INFO: Test Set:	| Average Loss: 1.4256	| Accuracy: 0.3636	|
+
+2021-08-16 10:23:53,866 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 10:23:59,420 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:23:59,420 INFO: Train Set:	| Average Loss: 1.3686	| Accuracy: 0.3007	| Learning Rate: 0.007500000025000008
+2021-08-16 10:24:04,766 INFO: Test Set:	| Average Loss: 1.3864	| Accuracy: 0.3636	|
+
+2021-08-16 10:24:04,766 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 10:24:10,207 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:24:10,208 INFO: Train Set:	| Average Loss: 1.3492	| Accuracy: 0.4126	| Learning Rate: 0.009330127025620931
+2021-08-16 10:24:15,629 INFO: Test Set:	| Average Loss: 1.3546	| Accuracy: 0.3182	|
+
+2021-08-16 10:24:15,629 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 10:24:21,631 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:24:21,631 INFO: Train Set:	| Average Loss: 1.3335	| Accuracy: 0.3287	| Learning Rate: 0.01000000000000001
+2021-08-16 10:24:27,114 INFO: Test Set:	| Average Loss: 1.5454	| Accuracy: 0.0909	|
+
+2021-08-16 10:24:27,114 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 10:24:32,718 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:24:32,719 INFO: Train Set:	| Average Loss: 1.3508	| Accuracy: 0.3217	| Learning Rate: 0.009330127025620933
+2021-08-16 10:24:38,215 INFO: Test Set:	| Average Loss: 1.1518	| Accuracy: 0.5455	|
+
+2021-08-16 10:24:38,275 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 10:24:43,867 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:24:43,867 INFO: Train Set:	| Average Loss: 1.2898	| Accuracy: 0.3986	| Learning Rate: 0.0075000000250000105
+2021-08-16 10:24:49,626 INFO: Test Set:	| Average Loss: 1.2894	| Accuracy: 0.4545	|
+
+2021-08-16 10:24:49,626 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 10:24:55,292 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:24:55,293 INFO: Train Set:	| Average Loss: 1.2619	| Accuracy: 0.4196	| Learning Rate: 0.00500000005000001
+2021-08-16 10:25:00,920 INFO: Test Set:	| Average Loss: 1.1396	| Accuracy: 0.5909	|
+
+2021-08-16 10:25:00,981 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 10:25:06,916 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:25:06,916 INFO: Train Set:	| Average Loss: 1.1945	| Accuracy: 0.4336	| Learning Rate: 0.0025000000750000067
+2021-08-16 10:25:12,462 INFO: Test Set:	| Average Loss: 1.1395	| Accuracy: 0.5455	|
+
+2021-08-16 10:25:12,463 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 10:25:18,263 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:25:18,263 INFO: Train Set:	| Average Loss: 1.2046	| Accuracy: 0.4545	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:25:24,108 INFO: Test Set:	| Average Loss: 1.1356	| Accuracy: 0.5455	|
+
+2021-08-16 10:25:24,108 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 10:25:31,020 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:25:31,021 INFO: Train Set:	| Average Loss: 1.1902	| Accuracy: 0.4685	| Learning Rate: 1e-10
+2021-08-16 10:25:36,938 INFO: Test Set:	| Average Loss: 1.1356	| Accuracy: 0.5455	|
+
+2021-08-16 10:25:36,938 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 10:25:42,704 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:25:42,704 INFO: Train Set:	| Average Loss: 1.1921	| Accuracy: 0.4615	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:25:48,488 INFO: Test Set:	| Average Loss: 1.1309	| Accuracy: 0.5455	|
+
+2021-08-16 10:25:48,488 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 10:25:54,068 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:25:54,068 INFO: Train Set:	| Average Loss: 1.1699	| Accuracy: 0.4685	| Learning Rate: 0.0025000000750000097
+2021-08-16 10:25:59,466 INFO: Test Set:	| Average Loss: 1.0269	| Accuracy: 0.6364	|
+
+2021-08-16 10:25:59,526 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 10:26:05,262 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:26:05,263 INFO: Train Set:	| Average Loss: 1.1355	| Accuracy: 0.4615	| Learning Rate: 0.005000000050000015
+2021-08-16 10:26:10,839 INFO: Test Set:	| Average Loss: 0.9623	| Accuracy: 0.6364	|
+
+2021-08-16 10:26:10,839 INFO: --------------------    Epoch: 23    --------------------
+2021-08-16 10:26:16,432 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:26:16,432 INFO: Train Set:	| Average Loss: 1.1844	| Accuracy: 0.4476	| Learning Rate: 0.007500000025000021
+2021-08-16 10:26:21,883 INFO: Test Set:	| Average Loss: 1.1257	| Accuracy: 0.5455	|
+
+2021-08-16 10:26:21,883 INFO: --------------------    Epoch: 24    --------------------
+2021-08-16 10:26:27,455 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:26:27,455 INFO: Train Set:	| Average Loss: 1.1596	| Accuracy: 0.5105	| Learning Rate: 0.00933012702562095
+2021-08-16 10:26:33,206 INFO: Test Set:	| Average Loss: 1.0218	| Accuracy: 0.6364	|
+
+2021-08-16 10:26:33,206 INFO: --------------------    Epoch: 25    --------------------
+2021-08-16 10:26:38,698 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:26:38,699 INFO: Train Set:	| Average Loss: 1.3355	| Accuracy: 0.5385	| Learning Rate: 0.010000000000000033
+2021-08-16 10:26:44,187 INFO: Test Set:	| Average Loss: 1.6582	| Accuracy: 0.4545	|
+
+2021-08-16 10:26:44,187 INFO: --------------------    Epoch: 26    --------------------
+2021-08-16 10:26:50,253 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:26:50,254 INFO: Train Set:	| Average Loss: 1.1034	| Accuracy: 0.5315	| Learning Rate: 0.009330127025620952
+2021-08-16 10:26:56,327 INFO: Test Set:	| Average Loss: 1.0606	| Accuracy: 0.4545	|
+
+2021-08-16 10:26:56,327 INFO: --------------------    Epoch: 27    --------------------
+2021-08-16 10:27:02,205 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:27:02,205 INFO: Train Set:	| Average Loss: 1.0589	| Accuracy: 0.5594	| Learning Rate: 0.007500000025000024
+2021-08-16 10:27:07,888 INFO: Test Set:	| Average Loss: 0.9155	| Accuracy: 0.6818	|
+
+2021-08-16 10:27:07,946 INFO: --------------------    Epoch: 28    --------------------
+2021-08-16 10:27:13,919 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:27:13,919 INFO: Train Set:	| Average Loss: 0.9915	| Accuracy: 0.6084	| Learning Rate: 0.005000000050000018
+2021-08-16 10:27:20,290 INFO: Test Set:	| Average Loss: 0.9932	| Accuracy: 0.5000	|
+
+2021-08-16 10:27:20,290 INFO: --------------------    Epoch: 29    --------------------
+2021-08-16 10:27:25,812 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:27:25,813 INFO: Train Set:	| Average Loss: 0.8464	| Accuracy: 0.6224	| Learning Rate: 0.002500000075000013
+2021-08-16 10:27:31,376 INFO: Test Set:	| Average Loss: 0.7569	| Accuracy: 0.6818	|
+
+2021-08-16 10:27:31,376 INFO: --------------------    Epoch: 30    --------------------
+2021-08-16 10:27:36,901 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:27:36,901 INFO: Train Set:	| Average Loss: 0.7608	| Accuracy: 0.6993	| Learning Rate: 0.0006698730743790794
+2021-08-16 10:27:42,438 INFO: Test Set:	| Average Loss: 0.7537	| Accuracy: 0.7273	|
+
+2021-08-16 10:27:42,495 INFO: --------------------    Epoch: 31    --------------------
+2021-08-16 10:27:48,557 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:27:48,557 INFO: Train Set:	| Average Loss: 0.7422	| Accuracy: 0.7133	| Learning Rate: 1e-10
+2021-08-16 10:27:54,180 INFO: Test Set:	| Average Loss: 0.7537	| Accuracy: 0.7273	|
+
+2021-08-16 10:27:54,181 INFO: --------------------    Epoch: 32    --------------------
+2021-08-16 10:28:00,044 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:00,045 INFO: Train Set:	| Average Loss: 0.7436	| Accuracy: 0.7343	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:28:06,077 INFO: Test Set:	| Average Loss: 0.7356	| Accuracy: 0.7273	|
+
+2021-08-16 10:28:06,077 INFO: --------------------    Epoch: 33    --------------------
+2021-08-16 10:28:11,818 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:11,818 INFO: Train Set:	| Average Loss: 0.6688	| Accuracy: 0.7622	| Learning Rate: 0.002500000075000003
+2021-08-16 10:28:17,387 INFO: Test Set:	| Average Loss: 0.7262	| Accuracy: 0.7273	|
+
+2021-08-16 10:28:17,387 INFO: --------------------    Epoch: 34    --------------------
+2021-08-16 10:28:23,406 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:23,406 INFO: Train Set:	| Average Loss: 0.6605	| Accuracy: 0.7413	| Learning Rate: 0.005000000050000026
+2021-08-16 10:28:29,350 INFO: Test Set:	| Average Loss: 0.8007	| Accuracy: 0.7273	|
+
+2021-08-16 10:28:29,350 INFO: --------------------    Epoch: 35    --------------------
+2021-08-16 10:28:34,926 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:34,926 INFO: Train Set:	| Average Loss: 0.6900	| Accuracy: 0.7832	| Learning Rate: 0.007500000025000034
+2021-08-16 10:28:40,300 INFO: Test Set:	| Average Loss: 0.8500	| Accuracy: 0.7273	|
+
+2021-08-16 10:28:40,301 INFO: --------------------    Epoch: 36    --------------------
+2021-08-16 10:28:45,993 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:45,993 INFO: Train Set:	| Average Loss: 1.0404	| Accuracy: 0.6713	| Learning Rate: 0.009330127025620963
+2021-08-16 10:28:51,869 INFO: Test Set:	| Average Loss: 0.4663	| Accuracy: 0.7727	|
+
+2021-08-16 10:28:51,936 INFO: --------------------    Epoch: 37    --------------------
+2021-08-16 10:28:58,161 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:28:58,161 INFO: Train Set:	| Average Loss: 0.8923	| Accuracy: 0.6993	| Learning Rate: 0.010000000000000042
+2021-08-16 10:29:03,842 INFO: Test Set:	| Average Loss: 2.2606	| Accuracy: 0.3636	|
+
+2021-08-16 10:29:03,842 INFO: --------------------    Epoch: 38    --------------------
+2021-08-16 10:29:09,476 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:29:09,477 INFO: Train Set:	| Average Loss: 0.8949	| Accuracy: 0.6224	| Learning Rate: 0.009330127025620966
+2021-08-16 10:29:15,145 INFO: Test Set:	| Average Loss: 0.8379	| Accuracy: 0.6364	|
+
+2021-08-16 10:29:15,146 INFO: --------------------    Epoch: 39    --------------------
+2021-08-16 10:29:21,562 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:29:21,563 INFO: Train Set:	| Average Loss: 0.5795	| Accuracy: 0.7692	| Learning Rate: 0.00750000002500004
+2021-08-16 10:29:27,335 INFO: Test Set:	| Average Loss: 0.8306	| Accuracy: 0.6364	|
+
+2021-08-16 10:29:27,335 INFO: --------------------    Epoch: 40    --------------------
+2021-08-16 10:29:33,088 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:29:33,088 INFO: Train Set:	| Average Loss: 0.7370	| Accuracy: 0.7483	| Learning Rate: 0.005000000050000034
+2021-08-16 10:29:38,745 INFO: Test Set:	| Average Loss: 1.1469	| Accuracy: 0.5909	|
+
+2021-08-16 10:29:38,745 INFO: --------------------    Epoch: 41    --------------------
+2021-08-16 10:29:45,566 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:29:45,567 INFO: Train Set:	| Average Loss: 0.5929	| Accuracy: 0.7832	| Learning Rate: 0.002500000075000009
+2021-08-16 10:29:51,661 INFO: Test Set:	| Average Loss: 0.6021	| Accuracy: 0.7727	|
+
+2021-08-16 10:29:51,662 INFO: --------------------    Epoch: 42    --------------------
+2021-08-16 10:29:58,115 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:29:58,116 INFO: Train Set:	| Average Loss: 0.3154	| Accuracy: 0.8741	| Learning Rate: 0.0006698730743790895
+2021-08-16 10:30:04,690 INFO: Test Set:	| Average Loss: 0.6103	| Accuracy: 0.7727	|
+
+2021-08-16 10:30:04,690 INFO: --------------------    Epoch: 43    --------------------
+2021-08-16 10:30:10,463 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:30:10,464 INFO: Train Set:	| Average Loss: 0.3158	| Accuracy: 0.8881	| Learning Rate: 1e-10
+2021-08-16 10:30:15,895 INFO: Test Set:	| Average Loss: 0.6103	| Accuracy: 0.7727	|
+
+2021-08-16 10:30:15,895 INFO: --------------------    Epoch: 44    --------------------
+2021-08-16 10:30:21,393 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:30:21,393 INFO: Train Set:	| Average Loss: 0.2836	| Accuracy: 0.9161	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:30:26,772 INFO: Test Set:	| Average Loss: 0.5348	| Accuracy: 0.8182	|
+
+2021-08-16 10:30:26,833 INFO: --------------------    Epoch: 45    --------------------
+2021-08-16 10:30:32,251 INFO: Epoch Time Costs: 0m 5s
+2021-08-16 10:30:32,251 INFO: Train Set:	| Average Loss: 0.2749	| Accuracy: 0.8881	| Learning Rate: 0.002500000075000004
+2021-08-16 10:30:37,702 INFO: Test Set:	| Average Loss: 0.7571	| Accuracy: 0.7727	|
+
+2021-08-16 10:30:37,703 INFO: --------------------    Epoch: 46    --------------------
+2021-08-16 10:30:43,257 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:30:43,257 INFO: Train Set:	| Average Loss: 0.4353	| Accuracy: 0.8392	| Learning Rate: 0.00500000005000003
+2021-08-16 10:30:49,117 INFO: Test Set:	| Average Loss: 0.6167	| Accuracy: 0.8182	|
+
+2021-08-16 10:30:49,117 INFO: --------------------    Epoch: 47    --------------------
+2021-08-16 10:30:55,286 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:30:55,287 INFO: Train Set:	| Average Loss: 0.7940	| Accuracy: 0.7692	| Learning Rate: 0.007500000025000024
+2021-08-16 10:31:01,008 INFO: Test Set:	| Average Loss: 0.5149	| Accuracy: 0.8182	|
+
+2021-08-16 10:31:01,009 INFO: --------------------    Epoch: 48    --------------------
+2021-08-16 10:31:07,052 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:31:07,053 INFO: Train Set:	| Average Loss: 0.6640	| Accuracy: 0.8182	| Learning Rate: 0.009330127025620971
+2021-08-16 10:31:12,842 INFO: Test Set:	| Average Loss: 0.1750	| Accuracy: 0.9545	|
+
+2021-08-16 10:31:12,901 INFO: --------------------    Epoch: 49    --------------------
+2021-08-16 10:31:18,488 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:31:18,488 INFO: Train Set:	| Average Loss: 0.4239	| Accuracy: 0.8881	| Learning Rate: 0.010000000000000054
+2021-08-16 10:31:24,639 INFO: Test Set:	| Average Loss: 0.4500	| Accuracy: 0.7727	|
+
+2021-08-16 10:31:24,639 INFO: --------------------    Epoch: 50    --------------------
+2021-08-16 10:31:30,726 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:31:30,726 INFO: Train Set:	| Average Loss: 0.4201	| Accuracy: 0.8322	| Learning Rate: 0.009330127025620978
+2021-08-16 10:31:36,969 INFO: Test Set:	| Average Loss: 0.8552	| Accuracy: 0.7727	|
+
+2021-08-16 10:31:36,970 INFO: --------------------    Epoch: 51    --------------------
+2021-08-16 10:31:43,229 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:31:43,229 INFO: Train Set:	| Average Loss: 0.5084	| Accuracy: 0.8671	| Learning Rate: 0.007500000025000036
+2021-08-16 10:31:49,854 INFO: Test Set:	| Average Loss: 0.4679	| Accuracy: 0.9091	|
+
+2021-08-16 10:31:49,854 INFO: --------------------    Epoch: 52    --------------------
+2021-08-16 10:31:56,126 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:31:56,126 INFO: Train Set:	| Average Loss: 0.3468	| Accuracy: 0.9021	| Learning Rate: 0.0050000000500000415
+2021-08-16 10:32:01,953 INFO: Test Set:	| Average Loss: 0.2773	| Accuracy: 0.9091	|
+
+2021-08-16 10:32:01,953 INFO: --------------------    Epoch: 53    --------------------
+2021-08-16 10:32:08,373 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:32:08,373 INFO: Train Set:	| Average Loss: 0.1802	| Accuracy: 0.9371	| Learning Rate: 0.002500000075000013
+2021-08-16 10:32:14,568 INFO: Test Set:	| Average Loss: 0.2561	| Accuracy: 0.9545	|
+
+2021-08-16 10:32:14,568 INFO: --------------------    Epoch: 54    --------------------
+2021-08-16 10:32:21,250 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:32:21,251 INFO: Train Set:	| Average Loss: 0.1089	| Accuracy: 0.9650	| Learning Rate: 0.000669873074379082
+2021-08-16 10:32:26,964 INFO: Test Set:	| Average Loss: 0.2554	| Accuracy: 0.9545	|
+
+2021-08-16 10:32:26,964 INFO: --------------------    Epoch: 55    --------------------
+2021-08-16 10:32:32,702 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:32:32,702 INFO: Train Set:	| Average Loss: 0.0848	| Accuracy: 0.9650	| Learning Rate: 1e-10
+2021-08-16 10:32:38,253 INFO: Test Set:	| Average Loss: 0.2554	| Accuracy: 0.9545	|
+
+2021-08-16 10:32:38,253 INFO: --------------------    Epoch: 56    --------------------
+2021-08-16 10:32:44,421 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:32:44,422 INFO: Train Set:	| Average Loss: 0.0647	| Accuracy: 0.9860	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:32:50,222 INFO: Test Set:	| Average Loss: 0.2751	| Accuracy: 0.9545	|
+
+2021-08-16 10:32:50,222 INFO: --------------------    Epoch: 57    --------------------
+2021-08-16 10:32:55,986 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:32:55,986 INFO: Train Set:	| Average Loss: 0.0563	| Accuracy: 0.9930	| Learning Rate: 0.0025000000749999716
+2021-08-16 10:33:02,252 INFO: Test Set:	| Average Loss: 0.2534	| Accuracy: 0.9545	|
+
+2021-08-16 10:33:02,252 INFO: --------------------    Epoch: 58    --------------------
+2021-08-16 10:33:08,866 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:33:08,867 INFO: Train Set:	| Average Loss: 0.0975	| Accuracy: 0.9650	| Learning Rate: 0.005000000049999948
+2021-08-16 10:33:15,797 INFO: Test Set:	| Average Loss: 0.1781	| Accuracy: 0.9545	|
+
+2021-08-16 10:33:15,797 INFO: --------------------    Epoch: 59    --------------------
+2021-08-16 10:33:21,453 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:33:21,453 INFO: Train Set:	| Average Loss: 0.2679	| Accuracy: 0.9161	| Learning Rate: 0.0075000000249999445
+2021-08-16 10:33:27,082 INFO: Test Set:	| Average Loss: 0.3266	| Accuracy: 0.9091	|
+
+2021-08-16 10:33:27,082 INFO: --------------------    Epoch: 60    --------------------
+2021-08-16 10:33:32,900 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:33:32,901 INFO: Train Set:	| Average Loss: 1.2915	| Accuracy: 0.8462	| Learning Rate: 0.009330127025620853
+2021-08-16 10:33:38,915 INFO: Test Set:	| Average Loss: 0.3642	| Accuracy: 0.9545	|
+
+2021-08-16 10:33:38,916 INFO: --------------------    Epoch: 61    --------------------
+2021-08-16 10:33:44,961 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:33:44,962 INFO: Train Set:	| Average Loss: 0.9338	| Accuracy: 0.8392	| Learning Rate: 0.009999999999999927
+2021-08-16 10:33:52,127 INFO: Test Set:	| Average Loss: 4.7259	| Accuracy: 0.5909	|
+
+2021-08-16 10:33:52,127 INFO: --------------------    Epoch: 62    --------------------
+2021-08-16 10:33:58,620 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:33:58,621 INFO: Train Set:	| Average Loss: 0.8658	| Accuracy: 0.8462	| Learning Rate: 0.00933012702562086
+2021-08-16 10:34:04,950 INFO: Test Set:	| Average Loss: 0.2429	| Accuracy: 0.9091	|
+
+2021-08-16 10:34:04,950 INFO: --------------------    Epoch: 63    --------------------
+2021-08-16 10:37:48,111 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:37:52,133 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:37:52,135 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 10:37:58,723 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:37:58,723 INFO: Train Set:	| Average Loss: 1.3877	| Accuracy: 0.2448	| Learning Rate: 0.01
+2021-08-16 10:38:05,129 INFO: Test Set:	| Average Loss: 1.3788	| Accuracy: 0.4091	|
+
+2021-08-16 10:38:05,183 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 10:38:11,695 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:38:11,695 INFO: Train Set:	| Average Loss: 1.3872	| Accuracy: 0.2448	| Learning Rate: 0.009330127025620924
+2021-08-16 10:38:18,119 INFO: Test Set:	| Average Loss: 1.3825	| Accuracy: 0.4091	|
+
+2021-08-16 10:38:18,119 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 10:38:24,663 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:38:24,664 INFO: Train Set:	| Average Loss: 1.3844	| Accuracy: 0.2657	| Learning Rate: 0.007500000025000001
+2021-08-16 10:38:31,063 INFO: Test Set:	| Average Loss: 1.3876	| Accuracy: 0.2727	|
+
+2021-08-16 10:38:31,063 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 10:38:37,775 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:38:37,775 INFO: Train Set:	| Average Loss: 1.3789	| Accuracy: 0.3217	| Learning Rate: 0.00500000005
+2021-08-16 10:38:44,444 INFO: Test Set:	| Average Loss: 1.3926	| Accuracy: 0.1818	|
+
+2021-08-16 10:38:44,444 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 10:38:51,900 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:38:51,901 INFO: Train Set:	| Average Loss: 1.3781	| Accuracy: 0.2937	| Learning Rate: 0.0025000000750000015
+2021-08-16 10:38:58,517 INFO: Test Set:	| Average Loss: 1.3942	| Accuracy: 0.2727	|
+
+2021-08-16 10:38:58,517 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 10:39:05,322 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:39:05,322 INFO: Train Set:	| Average Loss: 1.3758	| Accuracy: 0.2937	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:39:11,856 INFO: Test Set:	| Average Loss: 1.3951	| Accuracy: 0.2727	|
+
+2021-08-16 10:39:11,856 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 10:39:18,788 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:39:18,789 INFO: Train Set:	| Average Loss: 1.3761	| Accuracy: 0.3217	| Learning Rate: 1e-10
+2021-08-16 10:39:27,098 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:39:31,070 INFO: ==================== DeepFaceEmotion ====================
+2021-08-16 10:39:31,073 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 10:39:38,360 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:39:38,360 INFO: Train Set:	| Average Loss: 1.3877	| Accuracy: 0.2448	| Learning Rate: 0.01
+2021-08-16 10:39:45,726 INFO: Test Set:	| Average Loss: 1.3788	| Accuracy: 0.4091	|
+
+2021-08-16 10:39:45,775 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 10:39:52,802 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:39:52,802 INFO: Train Set:	| Average Loss: 1.3872	| Accuracy: 0.2448	| Learning Rate: 0.009330127025620924
+2021-08-16 10:39:59,177 INFO: Test Set:	| Average Loss: 1.3825	| Accuracy: 0.4091	|
+
+2021-08-16 10:39:59,177 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 10:40:05,724 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:40:05,725 INFO: Train Set:	| Average Loss: 1.3844	| Accuracy: 0.2657	| Learning Rate: 0.007500000025000001
+2021-08-16 10:40:12,107 INFO: Test Set:	| Average Loss: 1.3876	| Accuracy: 0.2727	|
+
+2021-08-16 10:40:12,107 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 10:40:19,151 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:40:19,151 INFO: Train Set:	| Average Loss: 1.3789	| Accuracy: 0.3217	| Learning Rate: 0.00500000005
+2021-08-16 10:40:25,772 INFO: Test Set:	| Average Loss: 1.3926	| Accuracy: 0.1818	|
+
+2021-08-16 10:40:25,773 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 10:40:32,538 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:40:32,538 INFO: Train Set:	| Average Loss: 1.3781	| Accuracy: 0.2937	| Learning Rate: 0.0025000000750000015
+2021-08-16 10:40:39,012 INFO: Test Set:	| Average Loss: 1.3942	| Accuracy: 0.2727	|
+
+2021-08-16 10:40:39,012 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 10:40:45,901 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:40:45,901 INFO: Train Set:	| Average Loss: 1.3758	| Accuracy: 0.2937	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:40:52,414 INFO: Test Set:	| Average Loss: 1.3951	| Accuracy: 0.2727	|
+
+2021-08-16 10:40:52,415 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 10:40:59,198 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:40:59,199 INFO: Train Set:	| Average Loss: 1.3761	| Accuracy: 0.3287	| Learning Rate: 1e-10
+2021-08-16 10:41:06,442 INFO: Test Set:	| Average Loss: 1.3951	| Accuracy: 0.2727	|
+
+2021-08-16 10:41:06,442 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 10:41:13,011 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:41:13,011 INFO: Train Set:	| Average Loss: 1.3749	| Accuracy: 0.3077	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:41:19,455 INFO: Test Set:	| Average Loss: 1.3944	| Accuracy: 0.1818	|
+
+2021-08-16 10:41:19,456 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 10:41:26,153 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:41:26,154 INFO: Train Set:	| Average Loss: 1.3738	| Accuracy: 0.3427	| Learning Rate: 0.002500000075
+2021-08-16 10:41:32,825 INFO: Test Set:	| Average Loss: 1.4051	| Accuracy: 0.2727	|
+
+2021-08-16 10:41:32,826 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 10:41:40,065 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:41:40,065 INFO: Train Set:	| Average Loss: 1.3638	| Accuracy: 0.3427	| Learning Rate: 0.005000000050000003
+2021-08-16 10:41:47,185 INFO: Test Set:	| Average Loss: 1.4256	| Accuracy: 0.3182	|
+
+2021-08-16 10:41:47,185 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 10:41:54,278 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:41:54,279 INFO: Train Set:	| Average Loss: 1.3687	| Accuracy: 0.2937	| Learning Rate: 0.007500000025000008
+2021-08-16 10:42:00,821 INFO: Test Set:	| Average Loss: 1.3861	| Accuracy: 0.3636	|
+
+2021-08-16 10:42:00,821 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 10:42:07,958 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:42:07,959 INFO: Train Set:	| Average Loss: 1.3491	| Accuracy: 0.4126	| Learning Rate: 0.009330127025620931
+2021-08-16 10:42:16,008 INFO: Test Set:	| Average Loss: 1.3545	| Accuracy: 0.3182	|
+
+2021-08-16 10:42:16,008 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 10:42:23,839 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:42:23,839 INFO: Train Set:	| Average Loss: 1.3335	| Accuracy: 0.3427	| Learning Rate: 0.01000000000000001
+2021-08-16 10:42:30,838 INFO: Test Set:	| Average Loss: 1.5368	| Accuracy: 0.0909	|
+
+2021-08-16 10:42:30,838 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 10:42:37,941 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:42:37,941 INFO: Train Set:	| Average Loss: 1.3475	| Accuracy: 0.3357	| Learning Rate: 0.009330127025620933
+2021-08-16 10:42:45,721 INFO: Test Set:	| Average Loss: 1.1473	| Accuracy: 0.5455	|
+
+2021-08-16 10:42:45,764 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 10:42:52,619 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:42:52,620 INFO: Train Set:	| Average Loss: 1.2901	| Accuracy: 0.4126	| Learning Rate: 0.0075000000250000105
+2021-08-16 10:42:59,254 INFO: Test Set:	| Average Loss: 1.2767	| Accuracy: 0.4545	|
+
+2021-08-16 10:42:59,255 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 10:43:06,424 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:43:06,424 INFO: Train Set:	| Average Loss: 1.2625	| Accuracy: 0.4056	| Learning Rate: 0.00500000005000001
+2021-08-16 10:43:13,768 INFO: Test Set:	| Average Loss: 1.1321	| Accuracy: 0.5909	|
+
+2021-08-16 10:43:13,806 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 10:43:20,673 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:43:20,674 INFO: Train Set:	| Average Loss: 1.1918	| Accuracy: 0.4196	| Learning Rate: 0.0025000000750000067
+2021-08-16 10:43:28,289 INFO: Test Set:	| Average Loss: 1.1348	| Accuracy: 0.5909	|
+
+2021-08-16 10:43:28,289 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 10:43:34,803 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:43:34,804 INFO: Train Set:	| Average Loss: 1.2036	| Accuracy: 0.4476	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:43:41,271 INFO: Test Set:	| Average Loss: 1.1312	| Accuracy: 0.5909	|
+
+2021-08-16 10:43:41,271 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 10:43:48,543 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:43:48,543 INFO: Train Set:	| Average Loss: 1.1935	| Accuracy: 0.4615	| Learning Rate: 1e-10
+2021-08-16 10:43:56,106 INFO: Test Set:	| Average Loss: 1.1312	| Accuracy: 0.5909	|
+
+2021-08-16 10:43:56,106 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 10:44:02,777 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:44:02,778 INFO: Train Set:	| Average Loss: 1.1906	| Accuracy: 0.4895	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:44:10,024 INFO: Test Set:	| Average Loss: 1.1294	| Accuracy: 0.5455	|
+
+2021-08-16 10:44:10,024 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 10:44:17,031 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:44:17,032 INFO: Train Set:	| Average Loss: 1.1690	| Accuracy: 0.4685	| Learning Rate: 0.0025000000750000097
+2021-08-16 10:44:24,348 INFO: Test Set:	| Average Loss: 1.0380	| Accuracy: 0.6364	|
+
+2021-08-16 10:44:24,391 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 10:44:31,788 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:44:31,788 INFO: Train Set:	| Average Loss: 1.1357	| Accuracy: 0.4825	| Learning Rate: 0.005000000050000015
+2021-08-16 10:44:38,574 INFO: Test Set:	| Average Loss: 0.9646	| Accuracy: 0.5909	|
+
+2021-08-16 10:44:38,574 INFO: --------------------    Epoch: 23    --------------------
+2021-08-16 10:44:45,617 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:44:45,618 INFO: Train Set:	| Average Loss: 1.1749	| Accuracy: 0.4545	| Learning Rate: 0.007500000025000021
+2021-08-16 10:44:52,392 INFO: Test Set:	| Average Loss: 1.1068	| Accuracy: 0.5000	|
+
+2021-08-16 10:44:52,392 INFO: --------------------    Epoch: 24    --------------------
+2021-08-16 10:44:59,614 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:44:59,615 INFO: Train Set:	| Average Loss: 1.1615	| Accuracy: 0.5105	| Learning Rate: 0.00933012702562095
+2021-08-16 10:45:06,041 INFO: Test Set:	| Average Loss: 1.0566	| Accuracy: 0.6364	|
+
+2021-08-16 10:45:06,041 INFO: --------------------    Epoch: 25    --------------------
+2021-08-16 10:45:12,607 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:45:12,608 INFO: Train Set:	| Average Loss: 1.4720	| Accuracy: 0.5245	| Learning Rate: 0.010000000000000033
+2021-08-16 10:45:19,460 INFO: Test Set:	| Average Loss: 1.7966	| Accuracy: 0.2273	|
+
+2021-08-16 10:45:19,460 INFO: --------------------    Epoch: 26    --------------------
+2021-08-16 10:45:25,968 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:45:25,968 INFO: Train Set:	| Average Loss: 1.1233	| Accuracy: 0.5594	| Learning Rate: 0.009330127025620952
+2021-08-16 10:45:32,431 INFO: Test Set:	| Average Loss: 0.9652	| Accuracy: 0.6364	|
+
+2021-08-16 10:45:32,432 INFO: --------------------    Epoch: 27    --------------------
+2021-08-16 10:45:39,044 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:45:39,044 INFO: Train Set:	| Average Loss: 1.0424	| Accuracy: 0.5175	| Learning Rate: 0.007500000025000024
+2021-08-16 10:45:45,649 INFO: Test Set:	| Average Loss: 0.7922	| Accuracy: 0.7273	|
+
+2021-08-16 10:45:45,693 INFO: --------------------    Epoch: 28    --------------------
+2021-08-16 10:45:52,299 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:45:52,300 INFO: Train Set:	| Average Loss: 0.9609	| Accuracy: 0.5944	| Learning Rate: 0.005000000050000018
+2021-08-16 10:45:58,982 INFO: Test Set:	| Average Loss: 0.9344	| Accuracy: 0.5455	|
+
+2021-08-16 10:45:58,983 INFO: --------------------    Epoch: 29    --------------------
+2021-08-16 10:46:05,778 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:46:05,779 INFO: Train Set:	| Average Loss: 0.8298	| Accuracy: 0.6713	| Learning Rate: 0.002500000075000013
+2021-08-16 10:46:12,872 INFO: Test Set:	| Average Loss: 0.7827	| Accuracy: 0.6364	|
+
+2021-08-16 10:46:12,873 INFO: --------------------    Epoch: 30    --------------------
+2021-08-16 10:46:20,640 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:46:20,641 INFO: Train Set:	| Average Loss: 0.7475	| Accuracy: 0.7133	| Learning Rate: 0.0006698730743790794
+2021-08-16 10:46:27,644 INFO: Test Set:	| Average Loss: 0.7580	| Accuracy: 0.6364	|
+
+2021-08-16 10:46:27,644 INFO: --------------------    Epoch: 31    --------------------
+2021-08-16 10:46:35,016 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:46:35,016 INFO: Train Set:	| Average Loss: 0.7392	| Accuracy: 0.7273	| Learning Rate: 1e-10
+2021-08-16 10:46:41,927 INFO: Test Set:	| Average Loss: 0.7580	| Accuracy: 0.6364	|
+
+2021-08-16 10:46:41,927 INFO: --------------------    Epoch: 32    --------------------
+2021-08-16 10:46:49,574 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:46:49,575 INFO: Train Set:	| Average Loss: 0.7292	| Accuracy: 0.7343	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:46:56,199 INFO: Test Set:	| Average Loss: 0.7320	| Accuracy: 0.7273	|
+
+2021-08-16 10:46:56,200 INFO: --------------------    Epoch: 33    --------------------
+2021-08-16 10:47:03,785 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:47:03,785 INFO: Train Set:	| Average Loss: 0.6564	| Accuracy: 0.7762	| Learning Rate: 0.002500000075000003
+2021-08-16 10:47:10,953 INFO: Test Set:	| Average Loss: 0.7206	| Accuracy: 0.7273	|
+
+2021-08-16 10:47:10,953 INFO: --------------------    Epoch: 34    --------------------
+2021-08-16 10:47:18,936 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:47:18,936 INFO: Train Set:	| Average Loss: 0.6117	| Accuracy: 0.7343	| Learning Rate: 0.005000000050000026
+2021-08-16 10:47:25,425 INFO: Test Set:	| Average Loss: 0.7554	| Accuracy: 0.6818	|
+
+2021-08-16 10:47:25,425 INFO: --------------------    Epoch: 35    --------------------
+2021-08-16 10:47:32,158 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:47:32,159 INFO: Train Set:	| Average Loss: 0.6407	| Accuracy: 0.7762	| Learning Rate: 0.007500000025000034
+2021-08-16 10:47:39,634 INFO: Test Set:	| Average Loss: 0.6250	| Accuracy: 0.8182	|
+
+2021-08-16 10:47:39,679 INFO: --------------------    Epoch: 36    --------------------
+2021-08-16 10:47:46,892 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:47:46,892 INFO: Train Set:	| Average Loss: 0.9354	| Accuracy: 0.6783	| Learning Rate: 0.009330127025620963
+2021-08-16 10:47:53,744 INFO: Test Set:	| Average Loss: 0.7001	| Accuracy: 0.7727	|
+
+2021-08-16 10:47:53,744 INFO: --------------------    Epoch: 37    --------------------
+2021-08-16 10:48:00,708 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:48:00,709 INFO: Train Set:	| Average Loss: 0.9383	| Accuracy: 0.6713	| Learning Rate: 0.010000000000000042
+2021-08-16 10:48:07,333 INFO: Test Set:	| Average Loss: 1.1974	| Accuracy: 0.7273	|
+
+2021-08-16 10:48:07,333 INFO: --------------------    Epoch: 38    --------------------
+2021-08-16 10:48:14,299 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:48:14,300 INFO: Train Set:	| Average Loss: 0.7206	| Accuracy: 0.7063	| Learning Rate: 0.009330127025620966
+2021-08-16 10:48:21,438 INFO: Test Set:	| Average Loss: 0.9639	| Accuracy: 0.6364	|
+
+2021-08-16 10:48:21,438 INFO: --------------------    Epoch: 39    --------------------
+2021-08-16 10:48:28,240 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:48:28,240 INFO: Train Set:	| Average Loss: 0.6541	| Accuracy: 0.7762	| Learning Rate: 0.00750000002500004
+2021-08-16 10:48:34,936 INFO: Test Set:	| Average Loss: 1.8846	| Accuracy: 0.6364	|
+
+2021-08-16 10:48:34,936 INFO: --------------------    Epoch: 40    --------------------
+2021-08-16 10:48:41,901 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:48:41,902 INFO: Train Set:	| Average Loss: 0.8606	| Accuracy: 0.7622	| Learning Rate: 0.005000000050000034
+2021-08-16 10:48:49,537 INFO: Test Set:	| Average Loss: 0.7061	| Accuracy: 0.7273	|
+
+2021-08-16 10:48:49,537 INFO: --------------------    Epoch: 41    --------------------
+2021-08-16 10:48:56,880 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:48:56,880 INFO: Train Set:	| Average Loss: 0.4609	| Accuracy: 0.8601	| Learning Rate: 0.002500000075000009
+2021-08-16 10:49:03,711 INFO: Test Set:	| Average Loss: 0.6356	| Accuracy: 0.7727	|
+
+2021-08-16 10:49:03,711 INFO: --------------------    Epoch: 42    --------------------
+2021-08-16 10:49:10,665 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:49:10,665 INFO: Train Set:	| Average Loss: 0.2936	| Accuracy: 0.8881	| Learning Rate: 0.0006698730743790895
+2021-08-16 10:49:17,168 INFO: Test Set:	| Average Loss: 0.6095	| Accuracy: 0.7727	|
+
+2021-08-16 10:49:17,168 INFO: --------------------    Epoch: 43    --------------------
+2021-08-16 10:49:23,703 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:49:23,704 INFO: Train Set:	| Average Loss: 0.2693	| Accuracy: 0.9091	| Learning Rate: 1e-10
+2021-08-16 10:49:30,582 INFO: Test Set:	| Average Loss: 0.6095	| Accuracy: 0.7727	|
+
+2021-08-16 10:49:30,582 INFO: --------------------    Epoch: 44    --------------------
+2021-08-16 10:49:37,537 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:49:37,538 INFO: Train Set:	| Average Loss: 0.2517	| Accuracy: 0.9231	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:49:44,177 INFO: Test Set:	| Average Loss: 0.5837	| Accuracy: 0.8636	|
+
+2021-08-16 10:49:44,218 INFO: --------------------    Epoch: 45    --------------------
+2021-08-16 10:49:52,055 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:49:52,055 INFO: Train Set:	| Average Loss: 0.2740	| Accuracy: 0.9021	| Learning Rate: 0.002500000075000004
+2021-08-16 10:49:59,217 INFO: Test Set:	| Average Loss: 0.8864	| Accuracy: 0.7727	|
+
+2021-08-16 10:49:59,217 INFO: --------------------    Epoch: 46    --------------------
+2021-08-16 10:50:06,262 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:50:06,262 INFO: Train Set:	| Average Loss: 0.3884	| Accuracy: 0.8881	| Learning Rate: 0.00500000005000003
+2021-08-16 10:50:12,800 INFO: Test Set:	| Average Loss: 1.0689	| Accuracy: 0.8182	|
+
+2021-08-16 10:50:12,800 INFO: --------------------    Epoch: 47    --------------------
+2021-08-16 10:50:19,335 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:50:19,336 INFO: Train Set:	| Average Loss: 0.5272	| Accuracy: 0.8322	| Learning Rate: 0.007500000025000024
+2021-08-16 10:50:25,698 INFO: Test Set:	| Average Loss: 0.2111	| Accuracy: 0.9091	|
+
+2021-08-16 10:50:25,743 INFO: --------------------    Epoch: 48    --------------------
+2021-08-16 10:50:32,096 INFO: Epoch Time Costs: 0m 6s
+2021-08-16 10:50:32,097 INFO: Train Set:	| Average Loss: 0.3923	| Accuracy: 0.8462	| Learning Rate: 0.009330127025620971
+2021-08-16 10:50:38,420 INFO: Test Set:	| Average Loss: 0.3285	| Accuracy: 0.9091	|
+
+2021-08-16 10:50:38,420 INFO: --------------------    Epoch: 49    --------------------
+2021-08-16 10:50:45,338 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:50:45,339 INFO: Train Set:	| Average Loss: 0.7940	| Accuracy: 0.7762	| Learning Rate: 0.010000000000000054
+2021-08-16 10:50:51,863 INFO: Test Set:	| Average Loss: 1.7311	| Accuracy: 0.6818	|
+
+2021-08-16 10:50:51,863 INFO: --------------------    Epoch: 50    --------------------
+2021-08-16 10:50:58,435 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:50:58,436 INFO: Train Set:	| Average Loss: 0.6391	| Accuracy: 0.8182	| Learning Rate: 0.009330127025620978
+2021-08-16 10:51:05,093 INFO: Test Set:	| Average Loss: 1.4788	| Accuracy: 0.7273	|
+
+2021-08-16 10:51:05,093 INFO: Training complete in 11m 34s
+2021-08-16 10:51:05,093 INFO: Best Test Accuracy: 0.909091
+2021-08-16 10:51:05,136 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 10:51:05,201 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 10:51:05,215 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 10:51:12,464 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:51:12,464 INFO: Train Set:	| Average Loss: 1.4547	| Accuracy: 0.2448	| Learning Rate: 0.01
+2021-08-16 10:51:19,048 INFO: Test Set:	| Average Loss: 4.2720	| Accuracy: 0.3636	|
+
+2021-08-16 10:51:19,103 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 10:51:26,428 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:51:26,429 INFO: Train Set:	| Average Loss: 1.4440	| Accuracy: 0.2517	| Learning Rate: 0.009330127025620924
+2021-08-16 10:51:32,911 INFO: Test Set:	| Average Loss: 5.6717	| Accuracy: 0.0909	|
+
+2021-08-16 10:51:32,911 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 10:51:40,159 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:51:40,160 INFO: Train Set:	| Average Loss: 1.3565	| Accuracy: 0.3706	| Learning Rate: 0.007500000025000001
+2021-08-16 10:51:48,617 INFO: Test Set:	| Average Loss: 2.3679	| Accuracy: 0.0909	|
+
+2021-08-16 10:51:48,617 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 10:51:55,953 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:51:55,953 INFO: Train Set:	| Average Loss: 1.3000	| Accuracy: 0.3916	| Learning Rate: 0.00500000005
+2021-08-16 10:52:02,894 INFO: Test Set:	| Average Loss: 1.9123	| Accuracy: 0.0909	|
+
+2021-08-16 10:52:02,895 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 10:52:11,006 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:52:11,006 INFO: Train Set:	| Average Loss: 1.2876	| Accuracy: 0.4266	| Learning Rate: 0.0025000000750000015
+2021-08-16 10:52:18,498 INFO: Test Set:	| Average Loss: 1.3989	| Accuracy: 0.1818	|
+
+2021-08-16 10:52:18,498 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 10:52:25,788 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:52:25,788 INFO: Train Set:	| Average Loss: 1.2505	| Accuracy: 0.4266	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:52:32,494 INFO: Test Set:	| Average Loss: 1.3020	| Accuracy: 0.2273	|
+
+2021-08-16 10:52:32,495 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 10:52:39,864 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:52:39,865 INFO: Train Set:	| Average Loss: 1.2354	| Accuracy: 0.4406	| Learning Rate: 1e-10
+2021-08-16 10:52:46,702 INFO: Test Set:	| Average Loss: 1.2727	| Accuracy: 0.2727	|
+
+2021-08-16 10:52:46,702 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 10:52:54,047 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:52:54,047 INFO: Train Set:	| Average Loss: 1.2510	| Accuracy: 0.3986	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:53:00,655 INFO: Test Set:	| Average Loss: 1.2307	| Accuracy: 0.4091	|
+
+2021-08-16 10:53:00,712 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 10:53:07,832 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:53:07,832 INFO: Train Set:	| Average Loss: 1.2109	| Accuracy: 0.4895	| Learning Rate: 0.002500000075
+2021-08-16 10:53:14,660 INFO: Test Set:	| Average Loss: 1.1927	| Accuracy: 0.4545	|
+
+2021-08-16 10:53:14,714 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 10:53:21,851 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:53:21,852 INFO: Train Set:	| Average Loss: 1.2105	| Accuracy: 0.5455	| Learning Rate: 0.005000000050000003
+2021-08-16 10:53:28,517 INFO: Test Set:	| Average Loss: 1.3480	| Accuracy: 0.3636	|
+
+2021-08-16 10:53:28,517 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 10:53:35,856 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:53:35,857 INFO: Train Set:	| Average Loss: 1.1404	| Accuracy: 0.5315	| Learning Rate: 0.007500000025000008
+2021-08-16 10:53:42,880 INFO: Test Set:	| Average Loss: 1.2393	| Accuracy: 0.3636	|
+
+2021-08-16 10:53:42,881 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 10:53:51,257 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:53:51,258 INFO: Train Set:	| Average Loss: 1.2511	| Accuracy: 0.4266	| Learning Rate: 0.009330127025620931
+2021-08-16 10:53:59,167 INFO: Test Set:	| Average Loss: 1.1553	| Accuracy: 0.4545	|
+
+2021-08-16 10:53:59,167 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 10:54:07,588 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:54:07,589 INFO: Train Set:	| Average Loss: 1.0700	| Accuracy: 0.5804	| Learning Rate: 0.01000000000000001
+2021-08-16 10:54:14,410 INFO: Test Set:	| Average Loss: 4.0441	| Accuracy: 0.2727	|
+
+2021-08-16 10:54:14,411 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 10:54:22,033 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:54:22,033 INFO: Train Set:	| Average Loss: 1.1555	| Accuracy: 0.5105	| Learning Rate: 0.009330127025620933
+2021-08-16 10:54:29,373 INFO: Test Set:	| Average Loss: 3.5745	| Accuracy: 0.1364	|
+
+2021-08-16 10:54:29,373 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 10:54:37,257 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:54:37,257 INFO: Train Set:	| Average Loss: 1.0932	| Accuracy: 0.5664	| Learning Rate: 0.0075000000250000105
+2021-08-16 10:54:44,763 INFO: Test Set:	| Average Loss: 2.3312	| Accuracy: 0.2273	|
+
+2021-08-16 10:54:44,763 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 10:54:52,048 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:54:52,049 INFO: Train Set:	| Average Loss: 1.0505	| Accuracy: 0.6014	| Learning Rate: 0.00500000005000001
+2021-08-16 10:54:58,656 INFO: Test Set:	| Average Loss: 1.6743	| Accuracy: 0.2727	|
+
+2021-08-16 10:54:58,657 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 10:55:05,830 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:55:05,830 INFO: Train Set:	| Average Loss: 0.9846	| Accuracy: 0.6503	| Learning Rate: 0.0025000000750000067
+2021-08-16 10:55:12,795 INFO: Test Set:	| Average Loss: 1.0322	| Accuracy: 0.4545	|
+
+2021-08-16 10:55:12,796 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 10:55:22,006 INFO: Epoch Time Costs: 0m 9s
+2021-08-16 10:55:22,007 INFO: Train Set:	| Average Loss: 0.8220	| Accuracy: 0.7483	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:55:29,201 INFO: Test Set:	| Average Loss: 0.8597	| Accuracy: 0.7727	|
+
+2021-08-16 10:55:29,265 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 10:55:36,503 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:55:36,503 INFO: Train Set:	| Average Loss: 0.8310	| Accuracy: 0.7273	| Learning Rate: 1e-10
+2021-08-16 10:55:43,236 INFO: Test Set:	| Average Loss: 0.8322	| Accuracy: 0.7727	|
+
+2021-08-16 10:55:43,236 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 10:55:50,899 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:55:50,900 INFO: Train Set:	| Average Loss: 0.8188	| Accuracy: 0.7203	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:55:57,654 INFO: Test Set:	| Average Loss: 0.8208	| Accuracy: 0.7727	|
+
+2021-08-16 10:55:57,654 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 10:56:04,938 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:56:04,938 INFO: Train Set:	| Average Loss: 0.7189	| Accuracy: 0.7413	| Learning Rate: 0.0025000000750000097
+2021-08-16 10:56:11,671 INFO: Test Set:	| Average Loss: 0.7290	| Accuracy: 0.7273	|
+
+2021-08-16 10:56:11,671 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 10:56:19,504 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:56:19,505 INFO: Train Set:	| Average Loss: 0.7223	| Accuracy: 0.7343	| Learning Rate: 0.005000000050000015
+2021-08-16 10:56:26,980 INFO: Test Set:	| Average Loss: 1.6383	| Accuracy: 0.4091	|
+
+2021-08-16 10:56:26,981 INFO: --------------------    Epoch: 23    --------------------
+2021-08-16 10:56:34,190 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:56:34,190 INFO: Train Set:	| Average Loss: 0.8032	| Accuracy: 0.6783	| Learning Rate: 0.007500000025000021
+2021-08-16 10:56:40,959 INFO: Test Set:	| Average Loss: 1.2558	| Accuracy: 0.5909	|
+
+2021-08-16 10:56:40,959 INFO: --------------------    Epoch: 24    --------------------
+2021-08-16 10:56:48,599 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:56:48,600 INFO: Train Set:	| Average Loss: 0.7595	| Accuracy: 0.7203	| Learning Rate: 0.00933012702562095
+2021-08-16 10:56:55,109 INFO: Test Set:	| Average Loss: 1.4779	| Accuracy: 0.2727	|
+
+2021-08-16 10:56:55,109 INFO: --------------------    Epoch: 25    --------------------
+2021-08-16 10:57:02,735 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:57:02,735 INFO: Train Set:	| Average Loss: 0.9637	| Accuracy: 0.6294	| Learning Rate: 0.010000000000000033
+2021-08-16 10:57:09,889 INFO: Test Set:	| Average Loss: 8.5560	| Accuracy: 0.2727	|
+
+2021-08-16 10:57:09,890 INFO: --------------------    Epoch: 26    --------------------
+2021-08-16 10:57:17,343 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:57:17,344 INFO: Train Set:	| Average Loss: 0.8529	| Accuracy: 0.6573	| Learning Rate: 0.009330127025620952
+2021-08-16 10:57:24,057 INFO: Test Set:	| Average Loss: 10.5456	| Accuracy: 0.3182	|
+
+2021-08-16 10:57:24,057 INFO: --------------------    Epoch: 27    --------------------
+2021-08-16 10:57:31,410 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:57:31,410 INFO: Train Set:	| Average Loss: 1.0684	| Accuracy: 0.5944	| Learning Rate: 0.007500000025000024
+2021-08-16 10:57:38,216 INFO: Test Set:	| Average Loss: 3.2294	| Accuracy: 0.2273	|
+
+2021-08-16 10:57:38,216 INFO: --------------------    Epoch: 28    --------------------
+2021-08-16 10:57:45,759 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:57:45,759 INFO: Train Set:	| Average Loss: 0.6227	| Accuracy: 0.7552	| Learning Rate: 0.005000000050000018
+2021-08-16 10:57:52,352 INFO: Test Set:	| Average Loss: 1.1802	| Accuracy: 0.5455	|
+
+2021-08-16 10:57:52,353 INFO: --------------------    Epoch: 29    --------------------
+2021-08-16 10:57:59,556 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:57:59,557 INFO: Train Set:	| Average Loss: 0.5210	| Accuracy: 0.8392	| Learning Rate: 0.002500000075000013
+2021-08-16 10:58:06,141 INFO: Test Set:	| Average Loss: 0.4506	| Accuracy: 0.9091	|
+
+2021-08-16 10:58:06,202 INFO: --------------------    Epoch: 30    --------------------
+2021-08-16 10:58:13,616 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:58:13,616 INFO: Train Set:	| Average Loss: 0.3795	| Accuracy: 0.9161	| Learning Rate: 0.0006698730743790794
+2021-08-16 10:58:20,817 INFO: Test Set:	| Average Loss: 0.4253	| Accuracy: 0.8636	|
+
+2021-08-16 10:58:20,818 INFO: --------------------    Epoch: 31    --------------------
+2021-08-16 10:58:28,705 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:58:28,706 INFO: Train Set:	| Average Loss: 0.3394	| Accuracy: 0.9371	| Learning Rate: 1e-10
+2021-08-16 10:58:36,218 INFO: Test Set:	| Average Loss: 0.4263	| Accuracy: 0.8636	|
+
+2021-08-16 10:58:36,219 INFO: --------------------    Epoch: 32    --------------------
+2021-08-16 10:58:43,595 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:58:43,596 INFO: Train Set:	| Average Loss: 0.3093	| Accuracy: 0.9301	| Learning Rate: 0.0006698730743790768
+2021-08-16 10:58:50,361 INFO: Test Set:	| Average Loss: 0.6732	| Accuracy: 0.6818	|
+
+2021-08-16 10:58:50,361 INFO: --------------------    Epoch: 33    --------------------
+2021-08-16 10:58:57,869 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:58:57,869 INFO: Train Set:	| Average Loss: 0.2776	| Accuracy: 0.9650	| Learning Rate: 0.002500000075000003
+2021-08-16 10:59:04,555 INFO: Test Set:	| Average Loss: 0.6465	| Accuracy: 0.7727	|
+
+2021-08-16 10:59:04,555 INFO: --------------------    Epoch: 34    --------------------
+2021-08-16 10:59:12,081 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:59:12,081 INFO: Train Set:	| Average Loss: 0.3657	| Accuracy: 0.8881	| Learning Rate: 0.005000000050000026
+2021-08-16 10:59:19,002 INFO: Test Set:	| Average Loss: 0.7451	| Accuracy: 0.5909	|
+
+2021-08-16 10:59:19,002 INFO: --------------------    Epoch: 35    --------------------
+2021-08-16 10:59:26,458 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:59:26,458 INFO: Train Set:	| Average Loss: 0.4742	| Accuracy: 0.8392	| Learning Rate: 0.007500000025000034
+2021-08-16 10:59:33,048 INFO: Test Set:	| Average Loss: 0.7594	| Accuracy: 0.6818	|
+
+2021-08-16 10:59:33,048 INFO: --------------------    Epoch: 36    --------------------
+2021-08-16 10:59:40,458 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 10:59:40,458 INFO: Train Set:	| Average Loss: 0.6745	| Accuracy: 0.7552	| Learning Rate: 0.009330127025620963
+2021-08-16 10:59:47,333 INFO: Test Set:	| Average Loss: 1.1379	| Accuracy: 0.6364	|
+
+2021-08-16 10:59:47,333 INFO: --------------------    Epoch: 37    --------------------
+2021-08-16 10:59:54,844 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 10:59:54,844 INFO: Train Set:	| Average Loss: 0.6843	| Accuracy: 0.7273	| Learning Rate: 0.010000000000000042
+2021-08-16 11:00:01,681 INFO: Test Set:	| Average Loss: 6.4097	| Accuracy: 0.2273	|
+
+2021-08-16 11:00:01,682 INFO: --------------------    Epoch: 38    --------------------
+2021-08-16 11:00:09,090 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:00:09,090 INFO: Train Set:	| Average Loss: 0.8640	| Accuracy: 0.6783	| Learning Rate: 0.009330127025620966
+2021-08-16 11:00:15,813 INFO: Test Set:	| Average Loss: 2.2832	| Accuracy: 0.5455	|
+
+2021-08-16 11:00:15,814 INFO: --------------------    Epoch: 39    --------------------
+2021-08-16 11:00:23,115 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:00:23,115 INFO: Train Set:	| Average Loss: 0.5622	| Accuracy: 0.8112	| Learning Rate: 0.00750000002500004
+2021-08-16 11:00:30,093 INFO: Test Set:	| Average Loss: 8.6690	| Accuracy: 0.1364	|
+
+2021-08-16 11:00:30,094 INFO: --------------------    Epoch: 40    --------------------
+2021-08-16 11:00:37,933 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:00:37,934 INFO: Train Set:	| Average Loss: 0.4619	| Accuracy: 0.8531	| Learning Rate: 0.005000000050000034
+2021-08-16 11:00:45,684 INFO: Test Set:	| Average Loss: 2.8532	| Accuracy: 0.4091	|
+
+2021-08-16 11:00:45,684 INFO: --------------------    Epoch: 41    --------------------
+2021-08-16 11:00:53,179 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:00:53,179 INFO: Train Set:	| Average Loss: 0.2696	| Accuracy: 0.8811	| Learning Rate: 0.002500000075000009
+2021-08-16 11:00:59,881 INFO: Test Set:	| Average Loss: 0.3904	| Accuracy: 0.9091	|
+
+2021-08-16 11:00:59,881 INFO: --------------------    Epoch: 42    --------------------
+2021-08-16 11:01:07,299 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:01:07,300 INFO: Train Set:	| Average Loss: 0.1640	| Accuracy: 0.9580	| Learning Rate: 0.0006698730743790895
+2021-08-16 11:01:14,188 INFO: Test Set:	| Average Loss: 0.3581	| Accuracy: 0.9545	|
+
+2021-08-16 11:01:14,259 INFO: --------------------    Epoch: 43    --------------------
+2021-08-16 11:01:22,091 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:01:22,091 INFO: Train Set:	| Average Loss: 0.1132	| Accuracy: 0.9860	| Learning Rate: 1e-10
+2021-08-16 11:01:28,985 INFO: Test Set:	| Average Loss: 0.3187	| Accuracy: 0.9545	|
+
+2021-08-16 11:01:28,985 INFO: --------------------    Epoch: 44    --------------------
+2021-08-16 11:01:36,300 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:01:36,300 INFO: Train Set:	| Average Loss: 0.1415	| Accuracy: 0.9720	| Learning Rate: 0.0006698730743790768
+2021-08-16 11:01:42,905 INFO: Test Set:	| Average Loss: 0.4883	| Accuracy: 0.8636	|
+
+2021-08-16 11:01:42,906 INFO: --------------------    Epoch: 45    --------------------
+2021-08-16 11:01:50,670 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:01:50,671 INFO: Train Set:	| Average Loss: 0.1783	| Accuracy: 0.9371	| Learning Rate: 0.002500000075000004
+2021-08-16 11:01:57,294 INFO: Test Set:	| Average Loss: 1.9504	| Accuracy: 0.3636	|
+
+2021-08-16 11:01:57,295 INFO: --------------------    Epoch: 46    --------------------
+2021-08-16 11:02:04,612 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:02:04,612 INFO: Train Set:	| Average Loss: 0.3078	| Accuracy: 0.8741	| Learning Rate: 0.00500000005000003
+2021-08-16 11:02:11,397 INFO: Test Set:	| Average Loss: 2.3731	| Accuracy: 0.3182	|
+
+2021-08-16 11:02:11,398 INFO: --------------------    Epoch: 47    --------------------
+2021-08-16 11:02:19,019 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:02:19,019 INFO: Train Set:	| Average Loss: 0.6175	| Accuracy: 0.7622	| Learning Rate: 0.007500000025000024
+2021-08-16 11:02:25,805 INFO: Test Set:	| Average Loss: 5.5926	| Accuracy: 0.2727	|
+
+2021-08-16 11:02:25,805 INFO: --------------------    Epoch: 48    --------------------
+2021-08-16 11:02:33,204 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:02:33,204 INFO: Train Set:	| Average Loss: 0.8217	| Accuracy: 0.7413	| Learning Rate: 0.009330127025620971
+2021-08-16 11:02:40,001 INFO: Test Set:	| Average Loss: 3.1311	| Accuracy: 0.5000	|
+
+2021-08-16 11:02:40,001 INFO: --------------------    Epoch: 49    --------------------
+2021-08-16 11:02:47,636 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:02:47,636 INFO: Train Set:	| Average Loss: 0.6066	| Accuracy: 0.7832	| Learning Rate: 0.010000000000000054
+2021-08-16 11:02:54,606 INFO: Test Set:	| Average Loss: 5.9340	| Accuracy: 0.3182	|
+
+2021-08-16 11:02:54,606 INFO: --------------------    Epoch: 50    --------------------
+2021-08-16 11:03:01,928 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:03:01,929 INFO: Train Set:	| Average Loss: 0.6187	| Accuracy: 0.7622	| Learning Rate: 0.009330127025620978
+2021-08-16 11:03:09,111 INFO: Test Set:	| Average Loss: 1.2262	| Accuracy: 0.7273	|
+
+2021-08-16 11:03:09,111 INFO: Training complete in 12m 4s
+2021-08-16 11:03:09,111 INFO: Best Test Accuracy: 0.954545
+2021-08-16 11:07:01,633 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 11:07:05,654 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 11:07:05,668 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 11:07:13,313 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:07:13,314 INFO: Train Set:	| Average Loss: 1.4414	| Accuracy: 0.2867	| Learning Rate: 0.01
+2021-08-16 11:07:19,919 INFO: Test Set:	| Average Loss: 5.6926	| Accuracy: 0.3182	|
+
+2021-08-16 11:07:19,992 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 11:07:27,532 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:07:27,533 INFO: Train Set:	| Average Loss: 1.3735	| Accuracy: 0.3217	| Learning Rate: 0.009330127025620924
+2021-08-16 11:07:33,988 INFO: Test Set:	| Average Loss: 2.3373	| Accuracy: 0.2273	|
+
+2021-08-16 11:07:33,988 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 11:07:41,524 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:07:41,525 INFO: Train Set:	| Average Loss: 1.3187	| Accuracy: 0.3916	| Learning Rate: 0.007500000025000001
+2021-08-16 11:07:48,121 INFO: Test Set:	| Average Loss: 1.6555	| Accuracy: 0.4545	|
+
+2021-08-16 11:07:48,194 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 11:07:56,087 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:07:56,088 INFO: Train Set:	| Average Loss: 1.2551	| Accuracy: 0.4615	| Learning Rate: 0.00500000005
+2021-08-16 11:08:02,762 INFO: Test Set:	| Average Loss: 1.5542	| Accuracy: 0.0909	|
+
+2021-08-16 11:08:02,762 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 11:08:11,108 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:08:11,109 INFO: Train Set:	| Average Loss: 1.2392	| Accuracy: 0.4685	| Learning Rate: 0.0025000000750000015
+2021-08-16 11:08:17,903 INFO: Test Set:	| Average Loss: 1.4161	| Accuracy: 0.2273	|
+
+2021-08-16 11:08:17,903 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 11:08:25,904 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:08:25,905 INFO: Train Set:	| Average Loss: 1.1946	| Accuracy: 0.4965	| Learning Rate: 0.0006698730743790768
+2021-08-16 11:08:32,893 INFO: Test Set:	| Average Loss: 1.3829	| Accuracy: 0.3182	|
+
+2021-08-16 11:08:32,893 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 11:08:40,789 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:08:40,790 INFO: Train Set:	| Average Loss: 1.1956	| Accuracy: 0.5455	| Learning Rate: 1e-10
+2021-08-16 11:08:47,725 INFO: Test Set:	| Average Loss: 1.3810	| Accuracy: 0.3636	|
+
+2021-08-16 11:08:47,725 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 11:08:55,639 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:08:55,639 INFO: Train Set:	| Average Loss: 1.1798	| Accuracy: 0.5385	| Learning Rate: 0.0006698730743790768
+2021-08-16 11:09:02,220 INFO: Test Set:	| Average Loss: 1.3122	| Accuracy: 0.3636	|
+
+2021-08-16 11:09:02,221 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 11:09:09,507 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:09:09,507 INFO: Train Set:	| Average Loss: 1.1865	| Accuracy: 0.5664	| Learning Rate: 0.002500000075
+2021-08-16 11:09:16,233 INFO: Test Set:	| Average Loss: 1.4221	| Accuracy: 0.1818	|
+
+2021-08-16 11:09:16,234 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 11:09:23,703 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:09:23,703 INFO: Train Set:	| Average Loss: 1.1693	| Accuracy: 0.5874	| Learning Rate: 0.005000000050000003
+2021-08-16 11:09:30,471 INFO: Test Set:	| Average Loss: 1.5648	| Accuracy: 0.2727	|
+
+2021-08-16 11:09:30,471 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 11:09:37,871 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:09:37,871 INFO: Train Set:	| Average Loss: 1.1647	| Accuracy: 0.5035	| Learning Rate: 0.007500000025000008
+2021-08-16 11:09:44,816 INFO: Test Set:	| Average Loss: 3.3451	| Accuracy: 0.1818	|
+
+2021-08-16 11:09:44,816 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 11:09:52,276 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:09:52,277 INFO: Train Set:	| Average Loss: 1.2343	| Accuracy: 0.4476	| Learning Rate: 0.009330127025620931
+2021-08-16 11:09:59,023 INFO: Test Set:	| Average Loss: 2.0825	| Accuracy: 0.3182	|
+
+2021-08-16 11:09:59,024 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 11:10:06,516 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:10:06,517 INFO: Train Set:	| Average Loss: 1.2804	| Accuracy: 0.4755	| Learning Rate: 0.01000000000000001
+2021-08-16 11:10:13,607 INFO: Test Set:	| Average Loss: 2.9567	| Accuracy: 0.3182	|
+
+2021-08-16 11:10:13,607 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 11:10:21,125 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:10:21,126 INFO: Train Set:	| Average Loss: 1.1619	| Accuracy: 0.4895	| Learning Rate: 0.009330127025620933
+2021-08-16 11:10:28,225 INFO: Test Set:	| Average Loss: 1.9236	| Accuracy: 0.4091	|
+
+2021-08-16 11:10:28,225 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 11:10:35,571 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:10:35,571 INFO: Train Set:	| Average Loss: 1.1208	| Accuracy: 0.4755	| Learning Rate: 0.0075000000250000105
+2021-08-16 11:10:42,388 INFO: Test Set:	| Average Loss: 2.7075	| Accuracy: 0.3636	|
+
+2021-08-16 11:10:42,388 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 11:10:50,550 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:10:50,550 INFO: Train Set:	| Average Loss: 1.0415	| Accuracy: 0.5804	| Learning Rate: 0.00500000005000001
+2021-08-16 11:10:58,111 INFO: Test Set:	| Average Loss: 1.7356	| Accuracy: 0.4091	|
+
+2021-08-16 11:10:58,111 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 11:11:05,814 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:11:05,814 INFO: Train Set:	| Average Loss: 0.9002	| Accuracy: 0.6923	| Learning Rate: 0.0025000000750000067
+2021-08-16 11:11:14,142 INFO: Test Set:	| Average Loss: 0.9023	| Accuracy: 0.7727	|
+
+2021-08-16 11:11:14,227 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 11:11:22,403 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:11:22,404 INFO: Train Set:	| Average Loss: 0.8412	| Accuracy: 0.7133	| Learning Rate: 0.0006698730743790768
+2021-08-16 11:11:30,896 INFO: Test Set:	| Average Loss: 0.8990	| Accuracy: 0.7273	|
+
+2021-08-16 11:11:30,896 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 11:11:38,939 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:11:38,940 INFO: Train Set:	| Average Loss: 0.8247	| Accuracy: 0.7133	| Learning Rate: 1e-10
+2021-08-16 11:11:46,789 INFO: Test Set:	| Average Loss: 0.8941	| Accuracy: 0.7273	|
+
+2021-08-16 11:11:46,789 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 11:11:54,314 INFO: Epoch Time Costs: 0m 8s
+2021-08-16 11:11:54,314 INFO: Train Set:	| Average Loss: 0.7742	| Accuracy: 0.7552	| Learning Rate: 0.0006698730743790768
+2021-08-16 11:12:00,998 INFO: Test Set:	| Average Loss: 0.8152	| Accuracy: 0.6818	|
+
+2021-08-16 11:12:00,998 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 11:12:08,474 INFO: Epoch Time Costs: 0m 7s
+2021-08-16 11:12:08,475 INFO: Train Set:	| Average Loss: 0.7861	| Accuracy: 0.7203	| Learning Rate: 0.0025000000750000097
+2021-08-16 11:12:16,463 INFO: Test Set:	| Average Loss: 0.7678	| Accuracy: 0.8636	|
+
+2021-08-16 11:12:16,545 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 18:59:37,592 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 18:59:40,688 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 18:59:40,698 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 19:08:27,449 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 19:08:30,506 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 19:08:30,531 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 19:08:36,427 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 19:08:39,436 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 19:08:39,446 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 19:10:08,023 INFO: Epoch Time Costs: 1m 29s
+2021-08-16 19:10:08,024 INFO: Train Set:	| Average Loss: 1.2791	| Accuracy: 0.3987	| Learning Rate: 0.01
+2021-08-16 19:10:18,933 INFO: Test Set:	| Average Loss: 1.3198	| Accuracy: 0.4541	|
+
+2021-08-16 19:10:18,982 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 19:11:49,398 INFO: Epoch Time Costs: 1m 30s
+2021-08-16 19:11:49,398 INFO: Train Set:	| Average Loss: 1.1112	| Accuracy: 0.5066	| Learning Rate: 0.009330127025620924
+2021-08-16 19:12:01,711 INFO: Test Set:	| Average Loss: 1.2466	| Accuracy: 0.4557	|
+
+2021-08-16 19:12:01,764 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 19:13:35,826 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:13:35,827 INFO: Train Set:	| Average Loss: 0.9913	| Accuracy: 0.5680	| Learning Rate: 0.007500000025000001
+2021-08-16 19:13:47,440 INFO: Test Set:	| Average Loss: 1.1543	| Accuracy: 0.5329	|
+
+2021-08-16 19:13:47,498 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 19:15:21,461 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:15:21,462 INFO: Train Set:	| Average Loss: 0.9315	| Accuracy: 0.5958	| Learning Rate: 0.00500000005
+2021-08-16 19:15:33,564 INFO: Test Set:	| Average Loss: 1.0213	| Accuracy: 0.5753	|
+
+2021-08-16 19:15:33,615 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 19:17:07,605 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:17:07,605 INFO: Train Set:	| Average Loss: 0.8712	| Accuracy: 0.6279	| Learning Rate: 0.0025000000750000015
+2021-08-16 19:17:19,375 INFO: Test Set:	| Average Loss: 0.8954	| Accuracy: 0.6219	|
+
+2021-08-16 19:17:19,433 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 19:18:53,461 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:18:53,461 INFO: Train Set:	| Average Loss: 0.8237	| Accuracy: 0.6491	| Learning Rate: 0.0006698730743790768
+2021-08-16 19:19:05,213 INFO: Test Set:	| Average Loss: 0.8272	| Accuracy: 0.6510	|
+
+2021-08-16 19:19:05,260 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 19:20:39,182 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:20:39,183 INFO: Train Set:	| Average Loss: 0.8041	| Accuracy: 0.6597	| Learning Rate: 1e-10
+2021-08-16 19:20:50,828 INFO: Test Set:	| Average Loss: 0.8312	| Accuracy: 0.6487	|
+
+2021-08-16 19:20:50,828 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 19:22:25,354 INFO: Epoch Time Costs: 1m 35s
+2021-08-16 19:22:25,354 INFO: Train Set:	| Average Loss: 0.8052	| Accuracy: 0.6612	| Learning Rate: 0.0006698730743790768
+2021-08-16 19:22:37,092 INFO: Test Set:	| Average Loss: 0.8337	| Accuracy: 0.6430	|
+
+2021-08-16 19:22:37,092 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 19:24:11,232 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:24:11,232 INFO: Train Set:	| Average Loss: 0.8493	| Accuracy: 0.6402	| Learning Rate: 0.002500000075
+2021-08-16 19:24:22,991 INFO: Test Set:	| Average Loss: 0.9278	| Accuracy: 0.6009	|
+
+2021-08-16 19:24:22,991 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 19:25:55,358 INFO: Epoch Time Costs: 1m 32s
+2021-08-16 19:25:55,358 INFO: Train Set:	| Average Loss: 0.8852	| Accuracy: 0.6197	| Learning Rate: 0.005000000050000003
+2021-08-16 19:26:07,671 INFO: Test Set:	| Average Loss: 1.3660	| Accuracy: 0.5229	|
+
+2021-08-16 19:26:07,671 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 19:27:42,273 INFO: Epoch Time Costs: 1m 35s
+2021-08-16 19:27:42,274 INFO: Train Set:	| Average Loss: 0.9041	| Accuracy: 0.6123	| Learning Rate: 0.007500000025000008
+2021-08-16 19:27:54,284 INFO: Test Set:	| Average Loss: 0.9110	| Accuracy: 0.6208	|
+
+2021-08-16 19:27:54,284 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 19:29:29,838 INFO: Epoch Time Costs: 1m 36s
+2021-08-16 19:29:29,839 INFO: Train Set:	| Average Loss: 0.9021	| Accuracy: 0.6147	| Learning Rate: 0.009330127025620931
+2021-08-16 19:29:42,586 INFO: Test Set:	| Average Loss: 0.8698	| Accuracy: 0.6196	|
+
+2021-08-16 19:29:42,586 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 19:31:19,286 INFO: Epoch Time Costs: 1m 37s
+2021-08-16 19:31:19,286 INFO: Train Set:	| Average Loss: 0.8832	| Accuracy: 0.6188	| Learning Rate: 0.01000000000000001
+2021-08-16 19:31:32,584 INFO: Test Set:	| Average Loss: 0.9681	| Accuracy: 0.6009	|
+
+2021-08-16 19:31:32,584 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 19:33:09,679 INFO: Epoch Time Costs: 1m 37s
+2021-08-16 19:33:09,680 INFO: Train Set:	| Average Loss: 0.8573	| Accuracy: 0.6345	| Learning Rate: 0.009330127025620933
+2021-08-16 19:33:22,232 INFO: Test Set:	| Average Loss: 0.9699	| Accuracy: 0.6021	|
+
+2021-08-16 19:33:22,232 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 19:34:58,047 INFO: Epoch Time Costs: 1m 36s
+2021-08-16 19:34:58,047 INFO: Train Set:	| Average Loss: 0.8298	| Accuracy: 0.6497	| Learning Rate: 0.0075000000250000105
+2021-08-16 19:35:10,068 INFO: Test Set:	| Average Loss: 0.8880	| Accuracy: 0.6078	|
+
+2021-08-16 19:35:10,068 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 19:36:45,907 INFO: Epoch Time Costs: 1m 36s
+2021-08-16 19:36:45,907 INFO: Train Set:	| Average Loss: 0.7912	| Accuracy: 0.6639	| Learning Rate: 0.00500000005000001
+2021-08-16 19:36:57,943 INFO: Test Set:	| Average Loss: 0.7824	| Accuracy: 0.6728	|
+
+2021-08-16 19:36:57,995 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 19:38:33,352 INFO: Epoch Time Costs: 1m 35s
+2021-08-16 19:38:33,353 INFO: Train Set:	| Average Loss: 0.7417	| Accuracy: 0.6902	| Learning Rate: 0.0025000000750000067
+2021-08-16 19:38:45,574 INFO: Test Set:	| Average Loss: 0.7421	| Accuracy: 0.6934	|
+
+2021-08-16 19:38:45,629 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 19:40:19,209 INFO: Epoch Time Costs: 1m 34s
+2021-08-16 19:40:19,209 INFO: Train Set:	| Average Loss: 0.7008	| Accuracy: 0.7077	| Learning Rate: 0.0006698730743790768
+2021-08-16 19:40:31,252 INFO: Test Set:	| Average Loss: 0.7148	| Accuracy: 0.7018	|
+
+2021-08-16 19:40:31,314 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 19:42:06,541 INFO: Epoch Time Costs: 1m 35s
+2021-08-16 19:42:06,541 INFO: Train Set:	| Average Loss: 0.6887	| Accuracy: 0.7128	| Learning Rate: 1e-10
+2021-08-16 19:42:19,366 INFO: Test Set:	| Average Loss: 0.7138	| Accuracy: 0.7022	|
+
+2021-08-16 19:42:19,422 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 19:43:57,827 INFO: Epoch Time Costs: 1m 38s
+2021-08-16 19:43:57,828 INFO: Train Set:	| Average Loss: 0.6877	| Accuracy: 0.7144	| Learning Rate: 0.0006698730743790768
+2021-08-16 19:44:13,463 INFO: Test Set:	| Average Loss: 0.7026	| Accuracy: 0.7072	|
+
+2021-08-16 19:44:13,528 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 19:45:57,121 INFO: Epoch Time Costs: 1m 44s
+2021-08-16 19:45:57,121 INFO: Train Set:	| Average Loss: 0.7183	| Accuracy: 0.7015	| Learning Rate: 0.0025000000750000097
+2021-08-16 19:46:09,912 INFO: Test Set:	| Average Loss: 0.7459	| Accuracy: 0.6896	|
+
+2021-08-16 19:46:09,913 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 19:48:10,886 INFO: Epoch Time Costs: 2m 1s
+2021-08-16 19:48:10,886 INFO: Train Set:	| Average Loss: 0.7634	| Accuracy: 0.6770	| Learning Rate: 0.005000000050000015
+2021-08-16 19:48:24,539 INFO: Test Set:	| Average Loss: 0.7967	| Accuracy: 0.6609	|
+
+2021-08-16 19:48:24,539 INFO: --------------------    Epoch: 23    --------------------
+2021-08-16 19:50:34,887 INFO: Epoch Time Costs: 2m 10s
+2021-08-16 19:50:34,888 INFO: Train Set:	| Average Loss: 0.7965	| Accuracy: 0.6654	| Learning Rate: 0.007500000025000021
+2021-08-16 19:50:48,239 INFO: Test Set:	| Average Loss: 0.7966	| Accuracy: 0.6693	|
+
+2021-08-16 19:50:48,239 INFO: --------------------    Epoch: 24    --------------------
+2021-08-16 21:52:38,416 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 21:52:41,455 INFO: ==================== FacialEmotionEmbedding ====================
+2021-08-16 21:52:41,455 INFO: --------------------    Epoch: 1     --------------------
+2021-08-16 21:54:08,868 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 21:54:08,876 INFO: Train Set:	| Average Loss: 1.2670	| Accuracy: 0.4040	| Learning Rate: 0.01
+2021-08-16 21:54:19,622 INFO: Test Set:	| Average Loss: 1.2365	| Accuracy: 0.4251	|
+
+2021-08-16 21:54:19,673 INFO: --------------------    Epoch: 2     --------------------
+2021-08-16 21:55:47,025 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 21:55:47,025 INFO: Train Set:	| Average Loss: 1.0968	| Accuracy: 0.5148	| Learning Rate: 0.009330127025620924
+2021-08-16 21:55:57,660 INFO: Test Set:	| Average Loss: 1.2749	| Accuracy: 0.5065	|
+
+2021-08-16 21:55:57,711 INFO: --------------------    Epoch: 3     --------------------
+2021-08-16 21:57:25,344 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 21:57:25,344 INFO: Train Set:	| Average Loss: 0.9933	| Accuracy: 0.5689	| Learning Rate: 0.007500000025000001
+2021-08-16 21:57:36,233 INFO: Test Set:	| Average Loss: 1.1754	| Accuracy: 0.5115	|
+
+2021-08-16 21:57:36,277 INFO: --------------------    Epoch: 4     --------------------
+2021-08-16 21:59:03,577 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 21:59:03,579 INFO: Train Set:	| Average Loss: 0.9252	| Accuracy: 0.6013	| Learning Rate: 0.00500000005
+2021-08-16 21:59:14,194 INFO: Test Set:	| Average Loss: 1.0149	| Accuracy: 0.5738	|
+
+2021-08-16 21:59:14,248 INFO: --------------------    Epoch: 5     --------------------
+2021-08-16 22:00:41,599 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:00:41,599 INFO: Train Set:	| Average Loss: 0.8652	| Accuracy: 0.6284	| Learning Rate: 0.0025000000750000015
+2021-08-16 22:00:52,154 INFO: Test Set:	| Average Loss: 0.8616	| Accuracy: 0.6250	|
+
+2021-08-16 22:00:52,204 INFO: --------------------    Epoch: 6     --------------------
+2021-08-16 22:02:19,513 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:02:19,514 INFO: Train Set:	| Average Loss: 0.8120	| Accuracy: 0.6547	| Learning Rate: 0.0006698730743790768
+2021-08-16 22:02:30,323 INFO: Test Set:	| Average Loss: 0.8025	| Accuracy: 0.6590	|
+
+2021-08-16 22:02:30,366 INFO: --------------------    Epoch: 7     --------------------
+2021-08-16 22:03:57,739 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:03:57,739 INFO: Train Set:	| Average Loss: 0.7918	| Accuracy: 0.6647	| Learning Rate: 1e-10
+2021-08-16 22:04:08,681 INFO: Test Set:	| Average Loss: 0.8065	| Accuracy: 0.6556	|
+
+2021-08-16 22:04:08,681 INFO: --------------------    Epoch: 8     --------------------
+2021-08-16 22:05:36,080 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:05:36,080 INFO: Train Set:	| Average Loss: 0.7911	| Accuracy: 0.6661	| Learning Rate: 0.0006698730743790768
+2021-08-16 22:05:46,740 INFO: Test Set:	| Average Loss: 0.8061	| Accuracy: 0.6613	|
+
+2021-08-16 22:05:46,784 INFO: --------------------    Epoch: 9     --------------------
+2021-08-16 22:07:14,263 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:07:14,263 INFO: Train Set:	| Average Loss: 0.8373	| Accuracy: 0.6422	| Learning Rate: 0.002500000075
+2021-08-16 22:07:25,018 INFO: Test Set:	| Average Loss: 0.8821	| Accuracy: 0.6036	|
+
+2021-08-16 22:07:25,018 INFO: --------------------    Epoch: 10    --------------------
+2021-08-16 22:08:52,268 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:08:52,268 INFO: Train Set:	| Average Loss: 0.8827	| Accuracy: 0.6189	| Learning Rate: 0.005000000050000003
+2021-08-16 22:09:02,909 INFO: Test Set:	| Average Loss: 1.0140	| Accuracy: 0.5925	|
+
+2021-08-16 22:09:02,909 INFO: --------------------    Epoch: 11    --------------------
+2021-08-16 22:10:30,193 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:10:30,193 INFO: Train Set:	| Average Loss: 0.9028	| Accuracy: 0.6116	| Learning Rate: 0.007500000025000008
+2021-08-16 22:10:41,253 INFO: Test Set:	| Average Loss: 0.9023	| Accuracy: 0.6097	|
+
+2021-08-16 22:10:41,253 INFO: --------------------    Epoch: 12    --------------------
+2021-08-16 22:12:11,016 INFO: Epoch Time Costs: 1m 30s
+2021-08-16 22:12:11,016 INFO: Train Set:	| Average Loss: 0.8997	| Accuracy: 0.6134	| Learning Rate: 0.009330127025620931
+2021-08-16 22:12:21,693 INFO: Test Set:	| Average Loss: 0.8786	| Accuracy: 0.6273	|
+
+2021-08-16 22:12:21,693 INFO: --------------------    Epoch: 13    --------------------
+2021-08-16 22:13:49,251 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:13:49,253 INFO: Train Set:	| Average Loss: 0.8835	| Accuracy: 0.6233	| Learning Rate: 0.01000000000000001
+2021-08-16 22:14:00,081 INFO: Test Set:	| Average Loss: 0.9602	| Accuracy: 0.5894	|
+
+2021-08-16 22:14:00,081 INFO: --------------------    Epoch: 14    --------------------
+2021-08-16 22:15:27,483 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:15:27,483 INFO: Train Set:	| Average Loss: 0.8578	| Accuracy: 0.6320	| Learning Rate: 0.009330127025620933
+2021-08-16 22:15:38,354 INFO: Test Set:	| Average Loss: 1.0579	| Accuracy: 0.5856	|
+
+2021-08-16 22:15:38,354 INFO: --------------------    Epoch: 15    --------------------
+2021-08-16 22:17:05,657 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:17:05,657 INFO: Train Set:	| Average Loss: 0.8255	| Accuracy: 0.6486	| Learning Rate: 0.0075000000250000105
+2021-08-16 22:17:16,285 INFO: Test Set:	| Average Loss: 0.8863	| Accuracy: 0.6277	|
+
+2021-08-16 22:17:16,285 INFO: --------------------    Epoch: 16    --------------------
+2021-08-16 22:18:43,621 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:18:43,623 INFO: Train Set:	| Average Loss: 0.7824	| Accuracy: 0.6702	| Learning Rate: 0.00500000005000001
+2021-08-16 22:18:54,448 INFO: Test Set:	| Average Loss: 0.7808	| Accuracy: 0.6747	|
+
+2021-08-16 22:18:54,498 INFO: --------------------    Epoch: 17    --------------------
+2021-08-16 22:20:22,082 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:20:22,082 INFO: Train Set:	| Average Loss: 0.7400	| Accuracy: 0.6917	| Learning Rate: 0.0025000000750000067
+2021-08-16 22:20:32,978 INFO: Test Set:	| Average Loss: 0.7308	| Accuracy: 0.6885	|
+
+2021-08-16 22:20:33,032 INFO: --------------------    Epoch: 18    --------------------
+2021-08-16 22:22:00,286 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:22:00,286 INFO: Train Set:	| Average Loss: 0.7003	| Accuracy: 0.7112	| Learning Rate: 0.0006698730743790768
+2021-08-16 22:22:11,156 INFO: Test Set:	| Average Loss: 0.6953	| Accuracy: 0.7060	|
+
+2021-08-16 22:22:11,206 INFO: --------------------    Epoch: 19    --------------------
+2021-08-16 22:23:38,514 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:23:38,514 INFO: Train Set:	| Average Loss: 0.6858	| Accuracy: 0.7128	| Learning Rate: 1e-10
+2021-08-16 22:23:49,687 INFO: Test Set:	| Average Loss: 0.6962	| Accuracy: 0.7072	|
+
+2021-08-16 22:23:49,743 INFO: --------------------    Epoch: 20    --------------------
+2021-08-16 22:25:17,452 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:25:17,453 INFO: Train Set:	| Average Loss: 0.6869	| Accuracy: 0.7143	| Learning Rate: 0.0006698730743790768
+2021-08-16 22:25:28,452 INFO: Test Set:	| Average Loss: 0.6960	| Accuracy: 0.7133	|
+
+2021-08-16 22:25:28,500 INFO: --------------------    Epoch: 21    --------------------
+2021-08-16 22:26:56,119 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:26:56,119 INFO: Train Set:	| Average Loss: 0.7166	| Accuracy: 0.7001	| Learning Rate: 0.0025000000750000097
+2021-08-16 22:27:07,256 INFO: Test Set:	| Average Loss: 0.7288	| Accuracy: 0.6904	|
+
+2021-08-16 22:27:07,256 INFO: --------------------    Epoch: 22    --------------------
+2021-08-16 22:28:34,927 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:28:34,927 INFO: Train Set:	| Average Loss: 0.7630	| Accuracy: 0.6791	| Learning Rate: 0.005000000050000015
+2021-08-16 22:28:45,912 INFO: Test Set:	| Average Loss: 0.7976	| Accuracy: 0.6617	|
+
+2021-08-16 22:28:45,912 INFO: --------------------    Epoch: 23    --------------------
+2021-08-16 22:30:13,253 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:30:13,253 INFO: Train Set:	| Average Loss: 0.7928	| Accuracy: 0.6660	| Learning Rate: 0.007500000025000021
+2021-08-16 22:30:24,128 INFO: Test Set:	| Average Loss: 0.7976	| Accuracy: 0.6697	|
+
+2021-08-16 22:30:24,128 INFO: --------------------    Epoch: 24    --------------------
+2021-08-16 22:31:51,971 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:31:51,971 INFO: Train Set:	| Average Loss: 0.8177	| Accuracy: 0.6562	| Learning Rate: 0.00933012702562095
+2021-08-16 22:32:03,010 INFO: Test Set:	| Average Loss: 0.8126	| Accuracy: 0.6491	|
+
+2021-08-16 22:32:03,010 INFO: --------------------    Epoch: 25    --------------------
+2021-08-16 22:33:30,750 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:33:30,750 INFO: Train Set:	| Average Loss: 0.8145	| Accuracy: 0.6554	| Learning Rate: 0.010000000000000033
+2021-08-16 22:33:41,664 INFO: Test Set:	| Average Loss: 0.9549	| Accuracy: 0.5841	|
+
+2021-08-16 22:33:41,664 INFO: --------------------    Epoch: 26    --------------------
+2021-08-16 22:35:09,327 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:35:09,327 INFO: Train Set:	| Average Loss: 0.7929	| Accuracy: 0.6672	| Learning Rate: 0.009330127025620952
+2021-08-16 22:35:20,297 INFO: Test Set:	| Average Loss: 0.8886	| Accuracy: 0.6502	|
+
+2021-08-16 22:35:20,298 INFO: --------------------    Epoch: 27    --------------------
+2021-08-16 22:36:47,768 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:36:47,768 INFO: Train Set:	| Average Loss: 0.7672	| Accuracy: 0.6794	| Learning Rate: 0.007500000025000024
+2021-08-16 22:36:58,745 INFO: Test Set:	| Average Loss: 0.8179	| Accuracy: 0.6598	|
+
+2021-08-16 22:36:58,745 INFO: --------------------    Epoch: 28    --------------------
+2021-08-16 22:38:26,394 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:38:26,395 INFO: Train Set:	| Average Loss: 0.7218	| Accuracy: 0.7012	| Learning Rate: 0.005000000050000018
+2021-08-16 22:38:37,373 INFO: Test Set:	| Average Loss: 0.7204	| Accuracy: 0.7007	|
+
+2021-08-16 22:38:37,373 INFO: --------------------    Epoch: 29    --------------------
+2021-08-16 22:40:04,976 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:40:04,976 INFO: Train Set:	| Average Loss: 0.6806	| Accuracy: 0.7207	| Learning Rate: 0.002500000075000013
+2021-08-16 22:40:16,302 INFO: Test Set:	| Average Loss: 0.6814	| Accuracy: 0.7167	|
+
+2021-08-16 22:40:16,357 INFO: --------------------    Epoch: 30    --------------------
+2021-08-16 22:41:44,036 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:41:44,036 INFO: Train Set:	| Average Loss: 0.6425	| Accuracy: 0.7351	| Learning Rate: 0.0006698730743790794
+2021-08-16 22:41:55,183 INFO: Test Set:	| Average Loss: 0.6591	| Accuracy: 0.7278	|
+
+2021-08-16 22:41:55,225 INFO: --------------------    Epoch: 31    --------------------
+2021-08-16 22:43:23,092 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:43:23,093 INFO: Train Set:	| Average Loss: 0.6237	| Accuracy: 0.7434	| Learning Rate: 1e-10
+2021-08-16 22:43:34,043 INFO: Test Set:	| Average Loss: 0.6558	| Accuracy: 0.7244	|
+
+2021-08-16 22:43:34,052 INFO: --------------------    Epoch: 32    --------------------
+2021-08-16 22:45:01,709 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:45:01,709 INFO: Train Set:	| Average Loss: 0.6280	| Accuracy: 0.7424	| Learning Rate: 0.0006698730743790768
+2021-08-16 22:45:12,663 INFO: Test Set:	| Average Loss: 0.6512	| Accuracy: 0.7336	|
+
+2021-08-16 22:45:12,715 INFO: --------------------    Epoch: 33    --------------------
+2021-08-16 22:46:40,783 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:46:40,783 INFO: Train Set:	| Average Loss: 0.6584	| Accuracy: 0.7290	| Learning Rate: 0.002500000075000003
+2021-08-16 22:46:51,669 INFO: Test Set:	| Average Loss: 0.6485	| Accuracy: 0.7408	|
+
+2021-08-16 22:46:51,719 INFO: --------------------    Epoch: 34    --------------------
+2021-08-16 22:48:19,942 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 22:48:19,943 INFO: Train Set:	| Average Loss: 0.6933	| Accuracy: 0.7114	| Learning Rate: 0.005000000050000026
+2021-08-16 22:48:30,684 INFO: Test Set:	| Average Loss: 0.7860	| Accuracy: 0.6693	|
+
+2021-08-16 22:48:30,685 INFO: --------------------    Epoch: 35    --------------------
+2021-08-16 22:49:57,973 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:49:57,974 INFO: Train Set:	| Average Loss: 0.7347	| Accuracy: 0.6925	| Learning Rate: 0.007500000025000034
+2021-08-16 22:50:08,783 INFO: Test Set:	| Average Loss: 0.7270	| Accuracy: 0.6972	|
+
+2021-08-16 22:50:08,783 INFO: --------------------    Epoch: 36    --------------------
+2021-08-16 22:51:36,064 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:51:36,065 INFO: Train Set:	| Average Loss: 0.7451	| Accuracy: 0.6909	| Learning Rate: 0.009330127025620963
+2021-08-16 22:51:46,702 INFO: Test Set:	| Average Loss: 0.7627	| Accuracy: 0.6843	|
+
+2021-08-16 22:51:46,702 INFO: --------------------    Epoch: 37    --------------------
+2021-08-16 22:53:13,865 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:53:13,865 INFO: Train Set:	| Average Loss: 0.7556	| Accuracy: 0.6844	| Learning Rate: 0.010000000000000042
+2021-08-16 22:53:24,544 INFO: Test Set:	| Average Loss: 0.8564	| Accuracy: 0.6491	|
+
+2021-08-16 22:53:24,545 INFO: --------------------    Epoch: 38    --------------------
+2021-08-16 22:54:51,818 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:54:51,819 INFO: Train Set:	| Average Loss: 0.7439	| Accuracy: 0.6893	| Learning Rate: 0.009330127025620966
+2021-08-16 22:55:02,508 INFO: Test Set:	| Average Loss: 0.8239	| Accuracy: 0.6537	|
+
+2021-08-16 22:55:02,509 INFO: --------------------    Epoch: 39    --------------------
+2021-08-16 22:56:29,702 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:56:29,703 INFO: Train Set:	| Average Loss: 0.7187	| Accuracy: 0.7016	| Learning Rate: 0.00750000002500004
+2021-08-16 22:56:40,457 INFO: Test Set:	| Average Loss: 0.7748	| Accuracy: 0.6900	|
+
+2021-08-16 22:56:40,458 INFO: --------------------    Epoch: 40    --------------------
+2021-08-16 22:58:07,801 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:58:07,801 INFO: Train Set:	| Average Loss: 0.6775	| Accuracy: 0.7210	| Learning Rate: 0.005000000050000034
+2021-08-16 22:58:18,589 INFO: Test Set:	| Average Loss: 0.6661	| Accuracy: 0.7259	|
+
+2021-08-16 22:58:18,589 INFO: --------------------    Epoch: 41    --------------------
+2021-08-16 22:59:45,943 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 22:59:45,943 INFO: Train Set:	| Average Loss: 0.6327	| Accuracy: 0.7372	| Learning Rate: 0.002500000075000009
+2021-08-16 22:59:56,902 INFO: Test Set:	| Average Loss: 0.6204	| Accuracy: 0.7485	|
+
+2021-08-16 22:59:56,953 INFO: --------------------    Epoch: 42    --------------------
+2021-08-16 23:01:24,496 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:01:24,497 INFO: Train Set:	| Average Loss: 0.5861	| Accuracy: 0.7611	| Learning Rate: 0.0006698730743790895
+2021-08-16 23:01:35,206 INFO: Test Set:	| Average Loss: 0.6030	| Accuracy: 0.7630	|
+
+2021-08-16 23:01:35,256 INFO: --------------------    Epoch: 43    --------------------
+2021-08-16 23:03:02,705 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:03:02,705 INFO: Train Set:	| Average Loss: 0.5682	| Accuracy: 0.7665	| Learning Rate: 1e-10
+2021-08-16 23:03:13,585 INFO: Test Set:	| Average Loss: 0.6030	| Accuracy: 0.7607	|
+
+2021-08-16 23:03:13,586 INFO: --------------------    Epoch: 44    --------------------
+2021-08-16 23:04:40,972 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:04:40,973 INFO: Train Set:	| Average Loss: 0.5732	| Accuracy: 0.7645	| Learning Rate: 0.0006698730743790768
+2021-08-16 23:04:51,746 INFO: Test Set:	| Average Loss: 0.5952	| Accuracy: 0.7584	|
+
+2021-08-16 23:04:51,747 INFO: --------------------    Epoch: 45    --------------------
+2021-08-16 23:06:19,216 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:06:19,217 INFO: Train Set:	| Average Loss: 0.5985	| Accuracy: 0.7543	| Learning Rate: 0.002500000075000004
+2021-08-16 23:06:30,030 INFO: Test Set:	| Average Loss: 0.6155	| Accuracy: 0.7500	|
+
+2021-08-16 23:06:30,030 INFO: --------------------    Epoch: 46    --------------------
+2021-08-16 23:07:57,558 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:07:57,559 INFO: Train Set:	| Average Loss: 0.6391	| Accuracy: 0.7348	| Learning Rate: 0.00500000005000003
+2021-08-16 23:08:08,411 INFO: Test Set:	| Average Loss: 0.6727	| Accuracy: 0.7271	|
+
+2021-08-16 23:08:08,411 INFO: --------------------    Epoch: 47    --------------------
+2021-08-16 23:09:35,688 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:09:35,688 INFO: Train Set:	| Average Loss: 0.6772	| Accuracy: 0.7217	| Learning Rate: 0.007500000025000024
+2021-08-16 23:09:46,382 INFO: Test Set:	| Average Loss: 0.7577	| Accuracy: 0.6900	|
+
+2021-08-16 23:09:46,382 INFO: --------------------    Epoch: 48    --------------------
+2021-08-16 23:11:13,620 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:11:13,621 INFO: Train Set:	| Average Loss: 0.7038	| Accuracy: 0.7084	| Learning Rate: 0.009330127025620971
+2021-08-16 23:11:24,232 INFO: Test Set:	| Average Loss: 0.7365	| Accuracy: 0.6923	|
+
+2021-08-16 23:11:24,232 INFO: --------------------    Epoch: 49    --------------------
+2021-08-16 23:12:51,449 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:12:51,449 INFO: Train Set:	| Average Loss: 0.7111	| Accuracy: 0.7023	| Learning Rate: 0.010000000000000054
+2021-08-16 23:13:02,022 INFO: Test Set:	| Average Loss: 0.7848	| Accuracy: 0.6816	|
+
+2021-08-16 23:13:02,022 INFO: --------------------    Epoch: 50    --------------------
+2021-08-16 23:14:29,221 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:14:29,221 INFO: Train Set:	| Average Loss: 0.6920	| Accuracy: 0.7123	| Learning Rate: 0.009330127025620978
+2021-08-16 23:14:40,039 INFO: Test Set:	| Average Loss: 0.7945	| Accuracy: 0.6823	|
+
+2021-08-16 23:14:40,039 INFO: --------------------    Epoch: 51    --------------------
+2021-08-16 23:16:07,390 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:16:07,390 INFO: Train Set:	| Average Loss: 0.6693	| Accuracy: 0.7240	| Learning Rate: 0.007500000025000036
+2021-08-16 23:16:18,080 INFO: Test Set:	| Average Loss: 0.7951	| Accuracy: 0.6724	|
+
+2021-08-16 23:16:18,080 INFO: --------------------    Epoch: 52    --------------------
+2021-08-16 23:17:45,425 INFO: Epoch Time Costs: 1m 27s
+2021-08-16 23:17:45,425 INFO: Train Set:	| Average Loss: 0.6270	| Accuracy: 0.7394	| Learning Rate: 0.0050000000500000415
+2021-08-16 23:17:55,989 INFO: Test Set:	| Average Loss: 0.6634	| Accuracy: 0.7339	|
+
+2021-08-16 23:17:55,989 INFO: --------------------    Epoch: 53    --------------------
+2021-08-16 23:19:24,113 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:19:24,113 INFO: Train Set:	| Average Loss: 0.5774	| Accuracy: 0.7647	| Learning Rate: 0.002500000075000013
+2021-08-16 23:19:35,202 INFO: Test Set:	| Average Loss: 0.6033	| Accuracy: 0.7550	|
+
+2021-08-16 23:19:35,202 INFO: --------------------    Epoch: 54    --------------------
+2021-08-16 23:21:03,105 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:21:03,105 INFO: Train Set:	| Average Loss: 0.5370	| Accuracy: 0.7835	| Learning Rate: 0.000669873074379082
+2021-08-16 23:21:14,074 INFO: Test Set:	| Average Loss: 0.5758	| Accuracy: 0.7714	|
+
+2021-08-16 23:21:14,124 INFO: --------------------    Epoch: 55    --------------------
+2021-08-16 23:22:42,074 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:22:42,074 INFO: Train Set:	| Average Loss: 0.5175	| Accuracy: 0.7912	| Learning Rate: 1e-10
+2021-08-16 23:22:52,920 INFO: Test Set:	| Average Loss: 0.5762	| Accuracy: 0.7691	|
+
+2021-08-16 23:22:52,920 INFO: --------------------    Epoch: 56    --------------------
+2021-08-16 23:24:20,946 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:24:20,946 INFO: Train Set:	| Average Loss: 0.5213	| Accuracy: 0.7882	| Learning Rate: 0.0006698730743790768
+2021-08-16 23:24:32,301 INFO: Test Set:	| Average Loss: 0.5726	| Accuracy: 0.7695	|
+
+2021-08-16 23:24:32,301 INFO: --------------------    Epoch: 57    --------------------
+2021-08-16 23:26:00,027 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:26:00,027 INFO: Train Set:	| Average Loss: 0.5451	| Accuracy: 0.7805	| Learning Rate: 0.0025000000749999716
+2021-08-16 23:26:11,089 INFO: Test Set:	| Average Loss: 0.5733	| Accuracy: 0.7687	|
+
+2021-08-16 23:26:11,089 INFO: --------------------    Epoch: 58    --------------------
+2021-08-16 23:27:38,988 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:27:38,988 INFO: Train Set:	| Average Loss: 0.5878	| Accuracy: 0.7585	| Learning Rate: 0.005000000049999948
+2021-08-16 23:27:49,987 INFO: Test Set:	| Average Loss: 0.6188	| Accuracy: 0.7462	|
+
+2021-08-16 23:27:49,987 INFO: --------------------    Epoch: 59    --------------------
+2021-08-16 23:29:17,768 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:29:17,769 INFO: Train Set:	| Average Loss: 0.6338	| Accuracy: 0.7392	| Learning Rate: 0.0075000000249999445
+2021-08-16 23:29:28,864 INFO: Test Set:	| Average Loss: 0.7249	| Accuracy: 0.6995	|
+
+2021-08-16 23:29:28,864 INFO: --------------------    Epoch: 60    --------------------
+2021-08-16 23:30:56,865 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:30:56,865 INFO: Train Set:	| Average Loss: 0.6611	| Accuracy: 0.7267	| Learning Rate: 0.009330127025620853
+2021-08-16 23:31:08,077 INFO: Test Set:	| Average Loss: 0.6827	| Accuracy: 0.7206	|
+
+2021-08-16 23:31:08,078 INFO: --------------------    Epoch: 61    --------------------
+2021-08-16 23:32:36,048 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:32:36,048 INFO: Train Set:	| Average Loss: 0.6662	| Accuracy: 0.7222	| Learning Rate: 0.009999999999999927
+2021-08-16 23:32:47,103 INFO: Test Set:	| Average Loss: 0.6875	| Accuracy: 0.7198	|
+
+2021-08-16 23:32:47,103 INFO: --------------------    Epoch: 62    --------------------
+2021-08-16 23:34:15,047 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:34:15,048 INFO: Train Set:	| Average Loss: 0.6517	| Accuracy: 0.7317	| Learning Rate: 0.00933012702562086
+2021-08-16 23:34:25,998 INFO: Test Set:	| Average Loss: 0.7123	| Accuracy: 0.7049	|
+
+2021-08-16 23:34:25,998 INFO: --------------------    Epoch: 63    --------------------
+2021-08-16 23:35:54,068 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:35:54,068 INFO: Train Set:	| Average Loss: 0.6231	| Accuracy: 0.7433	| Learning Rate: 0.007500000024999957
+2021-08-16 23:36:05,127 INFO: Test Set:	| Average Loss: 0.6364	| Accuracy: 0.7320	|
+
+2021-08-16 23:36:05,127 INFO: --------------------    Epoch: 64    --------------------
+2021-08-16 23:37:32,758 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:37:32,758 INFO: Train Set:	| Average Loss: 0.5794	| Accuracy: 0.7651	| Learning Rate: 0.005000000049999962
+2021-08-16 23:37:43,776 INFO: Test Set:	| Average Loss: 0.6219	| Accuracy: 0.7427	|
+
+2021-08-16 23:37:43,776 INFO: --------------------    Epoch: 65    --------------------
+2021-08-16 23:39:11,708 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:39:11,708 INFO: Train Set:	| Average Loss: 0.5294	| Accuracy: 0.7854	| Learning Rate: 0.0025000000749999976
+2021-08-16 23:39:22,816 INFO: Test Set:	| Average Loss: 0.5657	| Accuracy: 0.7745	|
+
+2021-08-16 23:39:22,861 INFO: --------------------    Epoch: 66    --------------------
+2021-08-16 23:40:50,886 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:40:50,886 INFO: Train Set:	| Average Loss: 0.4832	| Accuracy: 0.8073	| Learning Rate: 0.0006698730743790741
+2021-08-16 23:41:01,855 INFO: Test Set:	| Average Loss: 0.5380	| Accuracy: 0.7863	|
+
+2021-08-16 23:41:01,906 INFO: --------------------    Epoch: 67    --------------------
+2021-08-16 23:42:29,775 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:42:29,775 INFO: Train Set:	| Average Loss: 0.4672	| Accuracy: 0.8138	| Learning Rate: 1e-10
+2021-08-16 23:42:40,881 INFO: Test Set:	| Average Loss: 0.5340	| Accuracy: 0.7867	|
+
+2021-08-16 23:42:40,940 INFO: --------------------    Epoch: 68    --------------------
+2021-08-16 23:44:08,496 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:44:08,496 INFO: Train Set:	| Average Loss: 0.4695	| Accuracy: 0.8139	| Learning Rate: 0.0006698730743790768
+2021-08-16 23:44:19,746 INFO: Test Set:	| Average Loss: 0.5407	| Accuracy: 0.7802	|
+
+2021-08-16 23:44:19,746 INFO: --------------------    Epoch: 69    --------------------
+2021-08-16 23:45:47,818 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:45:47,818 INFO: Train Set:	| Average Loss: 0.4912	| Accuracy: 0.8013	| Learning Rate: 0.0025000000750000214
+2021-08-16 23:45:59,274 INFO: Test Set:	| Average Loss: 0.5747	| Accuracy: 0.7695	|
+
+2021-08-16 23:45:59,274 INFO: --------------------    Epoch: 70    --------------------
+2021-08-16 23:47:27,116 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:47:27,116 INFO: Train Set:	| Average Loss: 0.5402	| Accuracy: 0.7807	| Learning Rate: 0.005000000050000017
+2021-08-16 23:47:38,149 INFO: Test Set:	| Average Loss: 0.6381	| Accuracy: 0.7362	|
+
+2021-08-16 23:47:38,149 INFO: --------------------    Epoch: 71    --------------------
+2021-08-16 23:49:06,200 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:49:06,200 INFO: Train Set:	| Average Loss: 0.5881	| Accuracy: 0.7637	| Learning Rate: 0.0075000000250000495
+2021-08-16 23:49:17,414 INFO: Test Set:	| Average Loss: 0.6499	| Accuracy: 0.7412	|
+
+2021-08-16 23:49:17,414 INFO: --------------------    Epoch: 72    --------------------
+2021-08-16 23:50:45,332 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:50:45,332 INFO: Train Set:	| Average Loss: 0.6192	| Accuracy: 0.7471	| Learning Rate: 0.009330127025620994
+2021-08-16 23:50:56,485 INFO: Test Set:	| Average Loss: 0.6481	| Accuracy: 0.7282	|
+
+2021-08-16 23:50:56,485 INFO: --------------------    Epoch: 73    --------------------
+2021-08-16 23:52:24,350 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:52:24,350 INFO: Train Set:	| Average Loss: 0.6267	| Accuracy: 0.7422	| Learning Rate: 0.010000000000000068
+2021-08-16 23:52:35,625 INFO: Test Set:	| Average Loss: 0.6714	| Accuracy: 0.7366	|
+
+2021-08-16 23:52:35,625 INFO: --------------------    Epoch: 74    --------------------
+2021-08-16 23:54:03,683 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:54:03,685 INFO: Train Set:	| Average Loss: 0.6205	| Accuracy: 0.7466	| Learning Rate: 0.009330127025621
+2021-08-16 23:54:15,054 INFO: Test Set:	| Average Loss: 0.6486	| Accuracy: 0.7355	|
+
+2021-08-16 23:54:15,054 INFO: --------------------    Epoch: 75    --------------------
+2021-08-16 23:55:42,824 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:55:42,824 INFO: Train Set:	| Average Loss: 0.5792	| Accuracy: 0.7646	| Learning Rate: 0.007500000025000062
+2021-08-16 23:55:53,755 INFO: Test Set:	| Average Loss: 0.6473	| Accuracy: 0.7408	|
+
+2021-08-16 23:55:53,755 INFO: --------------------    Epoch: 76    --------------------
+2021-08-16 23:57:21,610 INFO: Epoch Time Costs: 1m 28s
+2021-08-16 23:57:21,611 INFO: Train Set:	| Average Loss: 0.5303	| Accuracy: 0.7854	| Learning Rate: 0.005000000050000032
+2021-08-16 23:57:32,757 INFO: Test Set:	| Average Loss: 0.5795	| Accuracy: 0.7706	|
+
+2021-08-16 23:57:32,757 INFO: --------------------    Epoch: 77    --------------------
