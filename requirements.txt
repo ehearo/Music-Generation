@@ -4,10 +4,7 @@ streamlit
 numpy
 opencv-python-headless
 matplotlib
-retinaface
-scikit-image
 torch
 torchvision
 pretty_midi
-midi2audio
 pyfluidsynth
