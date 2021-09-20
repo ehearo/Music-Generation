@@ -37,9 +37,10 @@ def app():
         return st.success("Saved File:{} success".format(uploadedfile.name))
     
     def midi_generator(image_dir, midi_dir, len_limit=400):
+        st.write("""情緒:""")
         if not os.path.isfile(midi_save_dir):
-            mp = MidiProcessor()
-            mp.preprocess_midi_files_under(midi_root=midi_root, save_dir=midi_save_dir)
+           # mp = MidiProcessor()
+            #mp.preprocess_midi_files_under(midi_root=midi_root, save_dir=midi_save_dir)
         
         emg = EmotionalMusicGenerator(len_limit)
         status_emotion = emg.generate(image_dir, midi_dir)
@@ -81,7 +82,6 @@ def app():
                 # 情緒辨識及音樂生成
                 """)
                 if img_path is not None:
-                    st.write("""情緒:""")
                     midi_path = midi_os + os.path.splitext(str(randnum) + uploaded_file.name)[0] +'.MID'
                     gen_midi_dir = midi_generator(img_path, midi_path, 400)
 #                     if gen_midi_dir is not None:
