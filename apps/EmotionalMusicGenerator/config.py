@@ -2,11 +2,11 @@ import torch
 from apps.EmotionalMusicGenerator.sequence import EventSeq, ControlSeq
 
 # MidiProcessor
-#midi_root = '/project/at101-group15/dataset/midis'
-#midi_save_dir = '/project/at101-group15/dataset/midi/rnn'
+midi_root = '/apps/EmotionalMusicGenerator/dataset/midis'
+midi_save_dir = '/apps/EmotionalMusicGenerator/dataset/midi_save_dir'
 
 # data dir
-#image_dir = '/project/at101-group15/dataset/emotion_image'
+image_dir = '/apps/EmotionalMusicGenerator/dataset/emotion_image'
 
 # Category
 mapping = {
