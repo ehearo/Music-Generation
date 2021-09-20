@@ -8,3 +8,4 @@ torch
 torchvision
 pretty_midi
 pyfluidsynth
+midi2audio
