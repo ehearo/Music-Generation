@@ -2,11 +2,11 @@ import torch
 from apps.EmotionalMusicGenerator.sequence import EventSeq, ControlSeq
 
 # MidiProcessor
-midi_root = '/project/at101-group15/dataset/midis'
-midi_save_dir = '/project/at101-group15/dataset/midi/rnn'
+#midi_root = '/project/at101-group15/dataset/midis'
+#midi_save_dir = '/project/at101-group15/dataset/midi/rnn'
 
 # data dir
-image_dir = '/project/at101-group15/dataset/emotion_image'
+#image_dir = '/project/at101-group15/dataset/emotion_image'
 
 # Category
 mapping = {
@@ -23,7 +23,7 @@ fer_config = {
 }
 
 FER = {
-    'pkl': '/project/at101-group15/Streamlit/apps/EmotionalMusicGenerator/models/FacialEmotionEmbedding.pkl'
+    'pkl': '/apps/EmotionalMusicGenerator/models/FacialEmotionEmbedding.pkl'
 }
 
 model = {
