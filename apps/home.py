@@ -38,7 +38,7 @@ def app():
     
     def midi_generator(image_dir, midi_dir, len_limit=400):
         st.write("""情緒:""")
-        if not os.path.isfile(midi_save_dir):
+        #if not os.path.isfile(midi_save_dir):
            # mp = MidiProcessor()
             #mp.preprocess_midi_files_under(midi_root=midi_root, save_dir=midi_save_dir)
         
