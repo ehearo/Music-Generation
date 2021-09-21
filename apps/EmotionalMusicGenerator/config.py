@@ -2,11 +2,11 @@ import torch
 from apps.EmotionalMusicGenerator.sequence import EventSeq, ControlSeq
 
 # MidiProcessor
-midi_root = '/apps/EmotionalMusicGenerator/dataset/midis'
-midi_save_dir = '/apps/EmotionalMusicGenerator/dataset/midi_save_dir'
+midi_root = '/app/emotion-music-gan/apps/EmotionalMusicGenerator/dataset/midis'
+midi_save_dir = '/app/emotion-music-gan/apps/EmotionalMusicGenerator/dataset/midi_save_dir'
 
 # data dir
-image_dir = '/apps/EmotionalMusicGenerator/dataset/emotion_image'
+image_dir = '/app/emotion-music-gan/apps/EmotionalMusicGenerator/dataset/emotion_image'
 
 # Category
 mapping = {
@@ -23,7 +23,7 @@ fer_config = {
 }
 
 FER = {
-    'pkl': '/apps/EmotionalMusicGenerator/models/FacialEmotionEmbedding.pkl'
+    'pkl': '/app/emotion-music-gan/apps/EmotionalMusicGenerator/models/FacialEmotionEmbedding.pkl'
 }
 
 model = {

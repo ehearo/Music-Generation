@@ -48,18 +48,18 @@ def app():
         
         return midi_dir
     
-#     def midi2wav(midi_path):
-#         midi_file = midi_path
-#         if midi_file is not None:
-#             midi_data = pretty_midi.PrettyMIDI(midi_file)
-#             audio_data = midi_data.fluidsynth()
-#             audio_data = np.int16(
-#             audio_data / np.max(np.abs(audio_data)) * 32767 * 0.9
-#             )  # -- Normalize for 16 bit audio https://github.com/jkanner/streamlit-audio/blob/main/helper.py
-#             virtualfile = io.BytesIO()
-#             wavfile.write(virtualfile, 44100, audio_data)
-#             st.audio(virtualfile)
-#         return True
+    def midi2wav(midi_path):
+         midi_file = midi_path
+         if midi_file is not None:
+             midi_data = pretty_midi.PrettyMIDI(midi_file)
+             audio_data = midi_data.fluidsynth()
+             audio_data = np.int16(
+             audio_data / np.max(np.abs(audio_data)) * 32767 * 0.9
+             )  # -- Normalize for 16 bit audio https://github.com/jkanner/streamlit-audio/blob/main/helper.py
+             virtualfile = io.BytesIO()
+             wavfile.write(virtualfile, 44100, audio_data)
+             st.audio(virtualfile)
+         return True
         
     uploaded_file = st.file_uploader("上傳照片", type=['png','jpeg','jpg'])
     if uploaded_file is not None:
@@ -84,16 +84,16 @@ def app():
                 if img_path is not None:
                     midi_path = midi_os + os.path.splitext(str(randnum) + uploaded_file.name)[0] +'.MID'
                     gen_midi_dir = midi_generator(img_path, midi_path, 400)
-#                     if gen_midi_dir is not None:
-#                         midi2wav(gen_midi_dir)                      
+                     if gen_midi_dir is not None:
+                         midi2wav(gen_midi_dir)                      
                     
-                    wav_path = os.path.join(path + '/wav_files/', os.path.splitext(randnum + uploaded_file.name)[0] + '.wav')
-                    time.sleep( 2 )
-                    if wav_path is not None:
+#                    wav_path = os.path.join(path + '/wav_files/', os.path.splitext(randnum + uploaded_file.name)[0] + '.wav')
+#                    time.sleep( 2 )
+#                    if wav_path is not None:
                         # open wav file
 
-                        wav_file = open(wav_path, 'rb')
-                        wav_bytes = wav_file.read()
-                        st.audio(wav_bytes, format='audio / wav')
-                    else:
-                        st.write('you uploaded bad file!')
+#                        wav_file = open(wav_path, 'rb')
+#                        wav_bytes = wav_file.read()
+#                        st.audio(wav_bytes, format='audio / wav')
+#                    else:
+#                        st.write('you uploaded bad file!')
