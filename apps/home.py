@@ -84,8 +84,8 @@ def app():
                 if img_path is not None:
                     midi_path = midi_os + os.path.splitext(str(randnum) + uploaded_file.name)[0] +'.MID'
                     gen_midi_dir = midi_generator(img_path, midi_path, 400)
-                     if gen_midi_dir is not None:
-                         midi2wav(gen_midi_dir)                      
+                    if gen_midi_dir is not None:
+                        midi2wav(gen_midi_dir)                      
                     
 #                    wav_path = os.path.join(path + '/wav_files/', os.path.splitext(randnum + uploaded_file.name)[0] + '.wav')
 #                    time.sleep( 2 )
